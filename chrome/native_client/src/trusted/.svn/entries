@@ -1,0 +1,67 @@
+10
+
+dir
+2631
+http://nativeclient.googlecode.com/svn/trunk/src/native_client/src/trusted
+http://nativeclient.googlecode.com/svn
+
+
+
+2010-07-03T22:20:41.094963Z
+2623
+mseaborn@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fcba33aa-ac0c-11dd-b9e7-8d5594d729c2
+
+handle_pass
+dir
+
+service_runtime
+dir
+
+debug_stub
+dir
+
+validator_arm
+dir
+
+nonnacl_util
+dir
+
+nacl_breakpad
+dir
+
+base
+dir
+
+validator_x86
+dir
+
+sel_universal
+dir
+
+desc
+dir
+
+platform_qualify
+dir
+
+plugin
+dir
+
+sandbox
+dir
+

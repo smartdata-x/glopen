@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1662/trunk/src/native_client/src/include/nacl
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/532/trunk/src/native_client/src/include/nacl/nacl.scons
+END
+nacl_inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1662/trunk/src/native_client/src/include/nacl/nacl_inttypes.h
+END

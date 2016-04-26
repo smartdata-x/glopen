@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2307/trunk/src/native_client/src/untrusted/nacl
+END
+open.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/open.c
+END
+close.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/close.c
+END
+null.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/null.c
+END
+read.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/read.c
+END
+stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/stat.c
+END
+getpid.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/getpid.c
+END
+sched_yield.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/sched_yield.c
+END
+srpc_get_fd.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/srpc_get_fd.c
+END
+imc_connect.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/imc_connect.c
+END
+gettimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/gettimeofday.c
+END
+sysconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/sysconf.c
+END
+syscall_bindings_trampoline.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2019/trunk/src/native_client/src/untrusted/nacl/syscall_bindings_trampoline.h
+END
+imc_accept.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/imc_accept.c
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/lock.c
+END
+imc_sendmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/imc_sendmsg.c
+END
+imc_socketpair.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/imc_socketpair.c
+END
+munmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/munmap.c
+END
+imc_recvmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/imc_recvmsg.c
+END
+sbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/sbrk.c
+END
+tls.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2088/trunk/src/native_client/src/untrusted/nacl/tls.c
+END
+lseek.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/lseek.c
+END
+tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2088/trunk/src/native_client/src/untrusted/nacl/tls.h
+END
+_exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/_exit.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/534/trunk/src/native_client/src/untrusted/nacl/README
+END
+getdents.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/getdents.c
+END
+imc_makeboundsock.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/imc_makeboundsock.c
+END
+dyncode_copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2019/trunk/src/native_client/src/untrusted/nacl/dyncode_copy.c
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2307/trunk/src/native_client/src/untrusted/nacl/nacl.scons
+END
+fstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/fstat.c
+END
+imc_mem_obj_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/imc_mem_obj_create.c
+END
+stacktrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/stacktrace.c
+END
+nanosleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/877/trunk/src/native_client/src/untrusted/nacl/nanosleep.c
+END
+write.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/write.c
+END
+srpc_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/srpc_init.c
+END
+mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/mmap.c
+END
+av_wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/av_wait.c
+END
+srpc_wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/srpc_wait.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1406/trunk/src/native_client/src/untrusted/nacl/clock.c
+END

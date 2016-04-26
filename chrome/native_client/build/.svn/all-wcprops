@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2591/trunk/src/native_client/build
+END
+common.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2583/trunk/src/native_client/build/common.gypi
+END
+external_code.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/542/trunk/src/native_client/build/external_code.gypi
+END
+cook_tarball.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1956/trunk/src/native_client/build/cook_tarball.py
+END
+all.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2591/trunk/src/native_client/build/all.gyp
+END
+gyp_nacl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/597/trunk/src/native_client/build/gyp_nacl
+END

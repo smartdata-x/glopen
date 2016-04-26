@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/42016/trunk/src/base/third_party/purify
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/42016/trunk/src/base/third_party/purify/README.chromium
+END
+pure.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12424/trunk/src/base/third_party/purify/pure.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/42016/trunk/src/base/third_party/purify/LICENSE
+END
+pure_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12424/trunk/src/base/third_party/purify/pure_api.c
+END

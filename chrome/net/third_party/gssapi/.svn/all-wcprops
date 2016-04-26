@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/49414/trunk/src/net/third_party/gssapi
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/49414/trunk/src/net/third_party/gssapi/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/47563/trunk/src/net/third_party/gssapi/LICENSE
+END
+gssapi.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/47563/trunk/src/net/third_party/gssapi/gssapi.gyp
+END
+gssapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/49414/trunk/src/net/third_party/gssapi/gssapi.h
+END

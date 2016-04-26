@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2087/trunk/src/native_client/src/trusted/debug_stub
+END
+debug_stub.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2085/trunk/src/native_client/src/trusted/debug_stub/debug_stub.gyp
+END
+debug_stub_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2087/trunk/src/native_client/src/trusted/debug_stub/debug_stub_test.cc
+END
+debug_stub.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2085/trunk/src/native_client/src/trusted/debug_stub/debug_stub.cc
+END
+debug_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2085/trunk/src/native_client/src/trusted/debug_stub/debug_stub.h
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/ChangeLog
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/compile
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/ltmain.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/config.h.in
+END
+xt.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/xt.pc.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/INSTALL
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/acinclude.m4
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/install-sh
+END

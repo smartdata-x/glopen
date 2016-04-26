@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2223/trunk/src/native_client/tests/multiarch
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2223/trunk/src/native_client/tests/multiarch/nacl.scons
+END
+multiarch.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2219/trunk/src/native_client/tests/multiarch/multiarch.js
+END
+multiarch.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2219/trunk/src/native_client/tests/multiarch/multiarch.html
+END

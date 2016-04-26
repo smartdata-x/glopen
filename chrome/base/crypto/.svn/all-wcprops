@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/52138/trunk/src/base/crypto
+END
+signature_verifier_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13724/trunk/src/base/crypto/signature_verifier_unittest.cc
+END
+scoped_capi_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/48395/trunk/src/base/crypto/scoped_capi_types.h
+END
+capi_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/50661/trunk/src/base/crypto/capi_util.cc
+END
+signature_verifier_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/44106/trunk/src/base/crypto/signature_verifier_win.cc
+END
+capi_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/50661/trunk/src/base/crypto/capi_util.h
+END
+signature_verifier_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/42964/trunk/src/base/crypto/signature_verifier_mac.cc
+END
+signature_verifier_nss.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/36291/trunk/src/base/crypto/signature_verifier_nss.cc
+END
+signature_creator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/42459/trunk/src/base/crypto/signature_creator_unittest.cc
+END
+symmetric_key_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/52138/trunk/src/base/crypto/symmetric_key_unittest.cc
+END
+scoped_nss_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/42649/trunk/src/base/crypto/scoped_nss_types.h
+END
+encryptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/44106/trunk/src/base/crypto/encryptor.h
+END
+rsa_private_key.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40394/trunk/src/base/crypto/rsa_private_key.cc
+END
+rsa_private_key.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/44106/trunk/src/base/crypto/rsa_private_key.h
+END
+cssm_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/51734/trunk/src/base/crypto/cssm_init.h
+END
+signature_creator_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/44106/trunk/src/base/crypto/signature_creator_win.cc
+END
+signature_verifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/44106/trunk/src/base/crypto/signature_verifier.h
+END
+signature_creator_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49570/trunk/src/base/crypto/signature_creator_mac.cc
+END
+symmetric_key_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/52138/trunk/src/base/crypto/symmetric_key_win.cc
+END
+encryptor_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44106/trunk/src/base/crypto/encryptor_win.cc
+END
+signature_creator_nss.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/36291/trunk/src/base/crypto/signature_creator_nss.cc
+END
+symmetric_key_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45816/trunk/src/base/crypto/symmetric_key_mac.cc
+END
+rsa_private_key_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/44106/trunk/src/base/crypto/rsa_private_key_win.cc
+END
+encryptor_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44106/trunk/src/base/crypto/encryptor_mac.cc
+END
+symmetric_key_nss.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/52138/trunk/src/base/crypto/symmetric_key_nss.cc
+END
+rsa_private_key_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/42964/trunk/src/base/crypto/rsa_private_key_mac.cc
+END
+encryptor_nss.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44106/trunk/src/base/crypto/encryptor_nss.cc
+END
+rsa_private_key_nss.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/42459/trunk/src/base/crypto/rsa_private_key_nss.cc
+END
+signature_creator.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/44106/trunk/src/base/crypto/signature_creator.h
+END
+encryptor_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/52138/trunk/src/base/crypto/encryptor_unittest.cc
+END
+symmetric_key.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/52138/trunk/src/base/crypto/symmetric_key.h
+END
+rsa_private_key_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/42459/trunk/src/base/crypto/rsa_private_key_unittest.cc
+END
+cssm_init.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/51734/trunk/src/base/crypto/cssm_init.cc
+END

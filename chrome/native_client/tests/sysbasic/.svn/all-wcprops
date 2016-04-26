@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2048/trunk/src/native_client/tests/sysbasic
+END
+sysbasic.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2045/trunk/src/native_client/tests/sysbasic/sysbasic.c
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2048/trunk/src/native_client/tests/sysbasic/nacl.scons
+END
+tls_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1427/trunk/src/native_client/tests/sysbasic/tls_test.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1634/trunk/src/native_client/tests/autoloader
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1081/trunk/src/native_client/tests/autoloader/nacl.scons
+END
+autoloader.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1634/trunk/src/native_client/tests/autoloader/autoloader.html
+END
+autoloader_default.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1427/trunk/src/native_client/tests/autoloader/autoloader_default.c
+END
+autoloader_default.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1634/trunk/src/native_client/tests/autoloader/autoloader_default.html
+END

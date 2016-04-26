@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 349
+SConstruct
+service_runtime_x86_64_Debug.rules
+service_runtime_x86_64_main.scons
+service_runtime_x86_64_Purify.rules
+service_runtime_x86_64_Release - no tcmalloc.rules
+service_runtime_x86_64_Release.rules
+service_runtime_x86_64.mk
+service_runtime_x86_64.scons
+service_runtime_x86_64.sln
+service_runtime_x86_64.vcproj
+service_runtime_x86_64.xcodeproj
+
+END

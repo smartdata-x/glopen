@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2045/trunk/src/native_client/tests/ruby
+END
+stdin
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1053/trunk/src/native_client/tests/ruby/stdin
+END
+ruby.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1634/trunk/src/native_client/tests/ruby/ruby.html
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1053/trunk/src/native_client/tests/ruby/main.c
+END
+stdout_golden
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1053/trunk/src/native_client/tests/ruby/stdout_golden
+END
+ruby.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1053/trunk/src/native_client/tests/ruby/ruby.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1053/trunk/src/native_client/tests/ruby/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2045/trunk/src/native_client/tests/ruby/Makefile
+END

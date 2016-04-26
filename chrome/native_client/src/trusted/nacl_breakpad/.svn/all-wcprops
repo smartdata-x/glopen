@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1864/trunk/src/native_client/src/trusted/nacl_breakpad
+END
+nacl_breakpad.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1864/trunk/src/native_client/src/trusted/nacl_breakpad/nacl_breakpad.gyp
+END
+nacl_breakpad_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1864/trunk/src/native_client/src/trusted/nacl_breakpad/nacl_breakpad_test.cc
+END
+nacl_breakpad.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1864/trunk/src/native_client/src/trusted/nacl_breakpad/nacl_breakpad.h
+END

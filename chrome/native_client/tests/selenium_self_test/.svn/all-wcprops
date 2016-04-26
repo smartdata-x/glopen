@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1634/trunk/src/native_client/tests/selenium_self_test
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1459/trunk/src/native_client/tests/selenium_self_test/build.scons
+END
+simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1634/trunk/src/native_client/tests/selenium_self_test/simple.html
+END

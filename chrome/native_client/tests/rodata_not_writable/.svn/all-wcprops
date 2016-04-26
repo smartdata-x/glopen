@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2556/trunk/src/native_client/tests/rodata_not_writable
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2556/trunk/src/native_client/tests/rodata_not_writable/nacl.scons
+END
+write_to_rodata.stdout
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2152/trunk/src/native_client/tests/rodata_not_writable/write_to_rodata.stdout
+END
+write_to_rodata.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2152/trunk/src/native_client/tests/rodata_not_writable/write_to_rodata.c
+END

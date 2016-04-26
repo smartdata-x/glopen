@@ -1,0 +1,31 @@
+K 10
+svn:ignore
+V 365
+SConstruct
+gmock.sln
+gmock.scons
+gmock.vcproj
+gmock.xcodeproj
+gmock_main.scons
+gmockmain.scons
+gmockmain.vcproj
+gtest
+gtest.scons
+gtest.sln
+gtest.vcproj
+gtest.xcodeproj
+gtestmain.scons
+gtest_main.scons
+gtestmain.vcproj
+gmock.mk
+gmockmain.mk
+gtest.mk
+gtestmain.mk
+gtest.target.mk
+gtestmain.target.mk
+gmock.target.mk
+gmockmain.target.mk
+gtest.Makefile
+gmock.Makefile
+
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2389/trunk/src/native_client/src/trusted/plugin/win
+END
+nacl_plugin64.def
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2389/trunk/src/native_client/src/trusted/plugin/win/nacl_plugin64.def
+END
+nacl_plugin.def
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2389/trunk/src/native_client/src/trusted/plugin/win/nacl_plugin.def
+END
+nacl_plugin.rc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2389/trunk/src/native_client/src/trusted/plugin/win/nacl_plugin.rc
+END

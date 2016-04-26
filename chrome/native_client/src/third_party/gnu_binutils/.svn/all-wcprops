@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/gnu_binutils
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/gnu_binutils/LICENSE
+END
+setup_env.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/gnu_binutils/setup_env.bat
+END

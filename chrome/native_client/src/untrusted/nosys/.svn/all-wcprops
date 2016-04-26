@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2278/trunk/src/native_client/src/untrusted/nosys
+END
+getgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getgid.c
+END
+close.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/close.c
+END
+utimes.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/utimes.c
+END
+getegid.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getegid.c
+END
+getpwuid_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getpwuid_r.c
+END
+ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/ioctl.c
+END
+read.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/read.c
+END
+getpid.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getpid.c
+END
+setgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/setgid.c
+END
+get_current_dir_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/get_current_dir_name.c
+END
+getuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getuid.c
+END
+getpwnam.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getpwnam.c
+END
+setegid.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/setegid.c
+END
+geteuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/geteuid.c
+END
+ftruncate.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/ftruncate.c
+END
+setuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/setuid.c
+END
+pthread_cleanup_push.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2277/trunk/src/native_client/src/untrusted/nosys/pthread_cleanup_push.c
+END
+fchdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/fchdir.c
+END
+access.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/access.c
+END
+seteuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/seteuid.c
+END
+_exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/_exit.c
+END
+_execve.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/_execve.c
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2278/trunk/src/native_client/src/untrusted/nosys/nacl.scons
+END
+umask.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/umask.c
+END
+fstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/fstat.c
+END
+times.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/times.c
+END
+truncate.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/truncate.c
+END
+getrusage.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getrusage.c
+END
+vfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/vfork.c
+END
+lstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/lstat.c
+END
+readlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/readlink.c
+END
+lchown.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/lchown.c
+END
+write.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/write.c
+END
+chmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/chmod.c
+END
+getpwent.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getpwent.c
+END
+pipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/pipe.c
+END
+pselect.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/pselect.c
+END
+unlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/unlink.c
+END
+open.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/open.c
+END
+waitpid.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/waitpid.c
+END
+fork.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/fork.c
+END
+getpwnam_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getpwnam_r.c
+END
+wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/wait.c
+END
+fcntl.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/fcntl.c
+END
+setpwent.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/setpwent.c
+END
+dup2.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/dup2.c
+END
+stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/stat.c
+END
+getcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getcwd.c
+END
+chown.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/chown.c
+END
+select.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/select.c
+END
+execve.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/execve.c
+END
+llseek.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/llseek.c
+END
+environ.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/environ.c
+END
+gettimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/gettimeofday.c
+END
+__errno.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/__errno.c
+END
+utime.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/utime.c
+END
+getpwuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getpwuid.c
+END
+kill.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/kill.c
+END
+settimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/settimeofday.c
+END
+fchmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/fchmod.c
+END
+sbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/sbrk.c
+END
+ttyname_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/ttyname_r.c
+END
+lseek.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/lseek.c
+END
+raise.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/raise.c
+END
+mkdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/mkdir.c
+END
+getwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getwd.c
+END
+warning.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/warning.h
+END
+pthread_cleanup_pop.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2277/trunk/src/native_client/src/untrusted/nosys/pthread_cleanup_pop.c
+END
+isatty.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/isatty.c
+END
+rmdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/rmdir.c
+END
+ttyname.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/ttyname.c
+END
+fchown.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/fchown.c
+END
+endpwent.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/endpwent.c
+END
+errno.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/errno.c
+END
+symlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/symlink.c
+END
+dup.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/dup.c
+END
+chdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/chdir.c
+END
+getppid.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/getppid.c
+END
+link.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2045/trunk/src/native_client/src/untrusted/nosys/link.c
+END

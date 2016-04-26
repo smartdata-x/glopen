@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1353/trunk/src/native_client/tests/time
+END
+gettimeofday_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/910/trunk/src/native_client/tests/time/gettimeofday_test.c
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1353/trunk/src/native_client/tests/time/nacl.scons
+END

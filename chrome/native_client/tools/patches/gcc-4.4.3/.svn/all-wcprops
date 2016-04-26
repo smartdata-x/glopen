@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2614/trunk/src/native_client/tools/patches/gcc-4.4.3
+END
+0011-gcc-Make-copy-propagated-pointers-be-addressed-in-Pm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2350/trunk/src/native_client/tools/patches/gcc-4.4.3/0011-gcc-Make-copy-propagated-pointers-be-addressed-in-Pm.patch
+END
+0008-gcc-Don-t-output-add-gs-0x0-eax-as-part-of-a-TLS-acc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2350/trunk/src/native_client/tools/patches/gcc-4.4.3/0008-gcc-Don-t-output-add-gs-0x0-eax-as-part-of-a-TLS-acc.patch
+END
+0015-gcc-disable-movsbw-for-x86-64.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2513/trunk/src/native_client/tools/patches/gcc-4.4.3/0015-gcc-disable-movsbw-for-x86-64.patch
+END
+0005-gcc-initial-gcc-bulk.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2350/trunk/src/native_client/tools/patches/gcc-4.4.3/0005-gcc-initial-gcc-bulk.patch
+END
+0021-gcc-Make-nacl-calls-CALLs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2613/trunk/src/native_client/tools/patches/gcc-4.4.3/0021-gcc-Make-nacl-calls-CALLs.patch
+END
+0022-gcc-Allow-GCC-insert-.cfi_startproc-and-.cfi_endproc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2614/trunk/src/native_client/tools/patches/gcc-4.4.3/0022-gcc-Allow-GCC-insert-.cfi_startproc-and-.cfi_endproc.patch
+END
+0016-gcc-Introduce-TARGET_NACL.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2613/trunk/src/native_client/tools/patches/gcc-4.4.3/0016-gcc-Introduce-TARGET_NACL.patch
+END
+0020-gcc-Cleanup-nacl_special_commands.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2613/trunk/src/native_client/tools/patches/gcc-4.4.3/0020-gcc-Cleanup-nacl_special_commands.patch
+END
+0019-gcc-Kill-NACL_LEA_MATCH_ADDRESS_OPERAND-and-insn_is_.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2613/trunk/src/native_client/tools/patches/gcc-4.4.3/0019-gcc-Kill-NACL_LEA_MATCH_ADDRESS_OPERAND-and-insn_is_.patch
+END
+0017-gcc-Eliminate-control-integrity-pass-in-favor-of-nac.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2613/trunk/src/native_client/tools/patches/gcc-4.4.3/0017-gcc-Eliminate-control-integrity-pass-in-favor-of-nac.patch
+END
+0018-gcc-Use-new-constraint-for-LEA-address-operands.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2613/trunk/src/native_client/tools/patches/gcc-4.4.3/0018-gcc-Use-new-constraint-for-LEA-address-operands.patch
+END
+0006-gcc-Disable-long-double-for-IA32.-Disable-i387-for-x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2350/trunk/src/native_client/tools/patches/gcc-4.4.3/0006-gcc-Disable-long-double-for-IA32.-Disable-i387-for-x.patch
+END
+0012-gcc-Fix-test-unwind.h-harness.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2350/trunk/src/native_client/tools/patches/gcc-4.4.3/0012-gcc-Fix-test-unwind.h-harness.patch
+END
+0010-gcc-Disable-bt-instruction-even-if-optimization-for-.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2350/trunk/src/native_client/tools/patches/gcc-4.4.3/0010-gcc-Disable-bt-instruction-even-if-optimization-for-.patch
+END
+0009-gcc-write-tableswitch-relocation-data-to-the-.rodata.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2350/trunk/src/native_client/tools/patches/gcc-4.4.3/0009-gcc-write-tableswitch-relocation-data-to-the-.rodata.patch
+END
+0007-gcc-multilib-mode-build-both-x86-32-and-x86-64-libra.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2350/trunk/src/native_client/tools/patches/gcc-4.4.3/0007-gcc-multilib-mode-build-both-x86-32-and-x86-64-libra.patch
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1367/trunk/src/native_client/common/console
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/542/trunk/src/native_client/common/console/nacl.scons
+END
+font2c.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/542/trunk/src/native_client/common/console/font2c.py
+END
+console_xterm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/542/trunk/src/native_client/common/console/console_xterm.cc
+END
+console.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/542/trunk/src/native_client/common/console/console.cc
+END
+console_color.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1367/trunk/src/native_client/common/console/console_color.h
+END
+console_xterm.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/542/trunk/src/native_client/common/console/console_xterm.h
+END
+console_font1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/542/trunk/src/native_client/common/console/console_font1.txt
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/542/trunk/src/native_client/common/console/console.h
+END
+console_c.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/542/trunk/src/native_client/common/console/console_c.cc
+END
+console_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/542/trunk/src/native_client/common/console/console_c.h
+END
+termcap.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/542/trunk/src/native_client/common/console/termcap.c
+END
+term.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/542/trunk/src/native_client/common/console/term.h
+END

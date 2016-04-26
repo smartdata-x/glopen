@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/benchmark
+END
+getpid.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/benchmark/getpid.c
+END

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 121
+platform.rules
+platform_main.scons
+platform.scons
+platform.sln
+platform.vcproj
+platform.xcodeproj
+SConstruct
+platform.mk
+
+END

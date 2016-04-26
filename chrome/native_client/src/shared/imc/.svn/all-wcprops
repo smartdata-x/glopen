@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2500/trunk/src/native_client/src/shared/imc
+END
+nacl_imc_unistd.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2500/trunk/src/native_client/src/shared/imc/nacl_imc_unistd.cc
+END
+nacl_htp_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1425/trunk/src/native_client/src/shared/imc/nacl_htp_c.h
+END
+sigpipe_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1813/trunk/src/native_client/src/shared/imc/sigpipe_test.cc
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2455/trunk/src/native_client/src/shared/imc/build.scons
+END
+nacl_imc_test_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1426/trunk/src/native_client/src/shared/imc/nacl_imc_test_client.cc
+END
+nacl_imc_c_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1424/trunk/src/native_client/src/shared/imc/nacl_imc_c_test.c
+END
+nacl_imc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1813/trunk/src/native_client/src/shared/imc/nacl_imc.h
+END
+nacl_imc_c.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1426/trunk/src/native_client/src/shared/imc/nacl_imc_c.cc
+END
+google_nacl_imc.sln
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/532/trunk/src/native_client/src/shared/imc/google_nacl_imc.sln
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/532/trunk/src/native_client/src/shared/imc/README
+END
+nacl_imc_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1813/trunk/src/native_client/src/shared/imc/nacl_imc_c.h
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1080/trunk/src/native_client/src/shared/imc/nacl.scons
+END
+nacl_imc_common.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2489/trunk/src/native_client/src/shared/imc/nacl_imc_common.cc
+END
+imc.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/trunk/src/native_client/src/shared/imc/imc.gyp
+END
+nacl_htp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1426/trunk/src/native_client/src/shared/imc/nacl_htp.cc
+END
+nacl_htp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1425/trunk/src/native_client/src/shared/imc/nacl_htp.h
+END
+nacl_imc_test_server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1426/trunk/src/native_client/src/shared/imc/nacl_imc_test_server.cc
+END
+nacl_htp_c.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1426/trunk/src/native_client/src/shared/imc/nacl_htp_c.cc
+END

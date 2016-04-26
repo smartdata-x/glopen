@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/52275/trunk/src/net/socket
+END
+tcp_client_socket_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/51635/trunk/src/net/socket/tcp_client_socket_unittest.cc
+END
+ssl_test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/50895/trunk/src/net/socket/ssl_test_util.cc
+END
+ssl_test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/48762/trunk/src/net/socket/ssl_test_util.h
+END
+ssl_client_socket_pool_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_pool_unittest.cc
+END
+ssl_client_socket_pool.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_pool.cc
+END
+ssl_client_socket_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/50895/trunk/src/net/socket/ssl_client_socket_unittest.cc
+END
+client_socket_pool_base_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/52275/trunk/src/net/socket/client_socket_pool_base_unittest.cc
+END
+tcp_client_socket_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/49893/trunk/src/net/socket/tcp_client_socket_win.cc
+END
+tcp_client_socket_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/47956/trunk/src/net/socket/tcp_client_socket_win.h
+END
+socks5_client_socket_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45851/trunk/src/net/socket/socks5_client_socket_unittest.cc
+END
+client_socket_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/52275/trunk/src/net/socket/client_socket_factory.cc
+END
+client_socket_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/52275/trunk/src/net/socket/client_socket_factory.h
+END
+client_socket_pool_histograms.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/48766/trunk/src/net/socket/client_socket_pool_histograms.cc
+END
+client_socket_pool.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/50364/trunk/src/net/socket/client_socket_pool.cc
+END
+socks_client_socket_pool_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/52107/trunk/src/net/socket/socks_client_socket_pool_unittest.cc
+END
+ssl_client_socket_mac_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_mac_factory.h
+END
+client_socket_pool_histograms.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/47843/trunk/src/net/socket/client_socket_pool_histograms.h
+END
+client_socket_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/52275/trunk/src/net/socket/client_socket_pool.h
+END
+socket_test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/52275/trunk/src/net/socket/socket_test_util.cc
+END
+tcp_client_socket_libevent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/50556/trunk/src/net/socket/tcp_client_socket_libevent.cc
+END
+tcp_client_socket_pool_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/52275/trunk/src/net/socket/tcp_client_socket_pool_unittest.cc
+END
+ssl_client_socket_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_win.h
+END
+socks_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45449/trunk/src/net/socket/socks_client_socket.h
+END
+tcp_pinger.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/47252/trunk/src/net/socket/tcp_pinger.h
+END
+ssl_client_socket_nss.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_nss.h
+END
+tcp_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/18985/trunk/src/net/socket/tcp_client_socket.h
+END
+client_socket_handle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/52275/trunk/src/net/socket/client_socket_handle.cc
+END
+ssl_client_socket_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_pool.h
+END
+client_socket_handle.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/52275/trunk/src/net/socket/client_socket_handle.h
+END
+client_socket_pool_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/52275/trunk/src/net/socket/client_socket_pool_base.cc
+END
+ssl_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket.h
+END
+client_socket_pool_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52275/trunk/src/net/socket/client_socket_pool_base.h
+END
+socks5_client_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45843/trunk/src/net/socket/socks5_client_socket.cc
+END
+ssl_client_socket_mac_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_mac_factory.cc
+END
+socks5_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45449/trunk/src/net/socket/socks5_client_socket.h
+END
+ssl_client_socket_nss_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_nss_factory.cc
+END
+socks_client_socket_pool.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/52107/trunk/src/net/socket/socks_client_socket_pool.cc
+END
+socks_client_socket_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/52275/trunk/src/net/socket/socks_client_socket_pool.h
+END
+ssl_client_socket_nss_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_nss_factory.h
+END
+ssl_client_socket_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_win.cc
+END
+tcp_client_socket_pool.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52107/trunk/src/net/socket/tcp_client_socket_pool.cc
+END
+socket_test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/52275/trunk/src/net/socket/socket_test_util.h
+END
+tcp_client_socket_libevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/47764/trunk/src/net/socket/tcp_client_socket_libevent.h
+END
+ssl_client_socket_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_mac.cc
+END
+socks_client_socket_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/49211/trunk/src/net/socket/socks_client_socket_unittest.cc
+END
+tcp_client_socket_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/52275/trunk/src/net/socket/tcp_client_socket_pool.h
+END
+client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45449/trunk/src/net/socket/client_socket.h
+END
+socks_client_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45843/trunk/src/net/socket/socks_client_socket.cc
+END
+ssl_client_socket_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_mac.h
+END
+tcp_pinger_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/51635/trunk/src/net/socket/tcp_pinger_unittest.cc
+END
+ssl_client_socket_nss.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/52275/trunk/src/net/socket/ssl_client_socket_nss.cc
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/25803/trunk/src/net/socket/socket.h
+END

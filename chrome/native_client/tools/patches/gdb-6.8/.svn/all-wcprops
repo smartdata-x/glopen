@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2350/trunk/src/native_client/tools/patches/gdb-6.8
+END
+0003-gdb-Initial-NaCl-gdb-bulk.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2350/trunk/src/native_client/tools/patches/gdb-6.8/0003-gdb-Initial-NaCl-gdb-bulk.patch
+END
+0004-gdb-compilation-fixes-for-gcc-4.4.1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2350/trunk/src/native_client/tools/patches/gdb-6.8/0004-gdb-compilation-fixes-for-gcc-4.4.1.patch
+END

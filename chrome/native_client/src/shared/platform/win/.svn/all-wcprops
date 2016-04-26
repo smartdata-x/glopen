@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2112/trunk/src/native_client/src/shared/platform/win
+END
+condition_variable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2112/trunk/src/native_client/src/shared/platform/win/condition_variable.cc
+END
+xlate_system_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1425/trunk/src/native_client/src/shared/platform/win/xlate_system_error.h
+END
+nacl_timestamp.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1424/trunk/src/native_client/src/shared/platform/win/nacl_timestamp.c
+END
+condition_variable.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2112/trunk/src/native_client/src/shared/platform/win/condition_variable.h
+END
+port_win_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2002/trunk/src/native_client/src/shared/platform/win/port_win_test.c
+END
+nacl_host_desc_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1425/trunk/src/native_client/src/shared/platform/win/nacl_host_desc_types.h
+END
+nacl_host_dir_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1425/trunk/src/native_client/src/shared/platform/win/nacl_host_dir_types.h
+END
+port_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1424/trunk/src/native_client/src/shared/platform/win/port_win.c
+END
+nacl_host_desc.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/trunk/src/native_client/src/shared/platform/win/nacl_host_desc.c
+END
+nacl_host_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1424/trunk/src/native_client/src/shared/platform/win/nacl_host_dir.c
+END
+nacl_find_addrsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1881/trunk/src/native_client/src/shared/platform/win/nacl_find_addrsp.c
+END
+nacl_secure_random_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1425/trunk/src/native_client/src/shared/platform/win/nacl_secure_random_types.h
+END
+lock_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2112/trunk/src/native_client/src/shared/platform/win/lock_impl.h
+END
+time_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2112/trunk/src/native_client/src/shared/platform/win/time_win.cc
+END
+nacl_threads_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1425/trunk/src/native_client/src/shared/platform/win/nacl_threads_types.h
+END
+nacl_semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1424/trunk/src/native_client/src/shared/platform/win/nacl_semaphore.c
+END
+test_tls.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1556/trunk/src/native_client/src/shared/platform/win/test_tls.S
+END
+nacl_secure_random.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1424/trunk/src/native_client/src/shared/platform/win/nacl_secure_random.c
+END
+condition_variable_events.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2112/trunk/src/native_client/src/shared/platform/win/condition_variable_events.h
+END
+nacl_time_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/918/trunk/src/native_client/src/shared/platform/win/nacl_time_types.h
+END
+nacl_semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1425/trunk/src/native_client/src/shared/platform/win/nacl_semaphore.h
+END
+nacl_threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1424/trunk/src/native_client/src/shared/platform/win/nacl_threads.c
+END
+lock_impl_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1426/trunk/src/native_client/src/shared/platform/win/lock_impl_win.cc
+END
+xlate_system_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1424/trunk/src/native_client/src/shared/platform/win/xlate_system_error.c
+END
+nacl_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1662/trunk/src/native_client/src/shared/platform/win/nacl_time.c
+END
+lock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2112/trunk/src/native_client/src/shared/platform/win/lock.cc
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2112/trunk/src/native_client/src/shared/platform/win/lock.h
+END

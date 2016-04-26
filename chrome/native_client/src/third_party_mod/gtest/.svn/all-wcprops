@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1556/trunk/src/native_client/src/third_party_mod/gtest
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/741/trunk/src/native_client/src/third_party_mod/gtest/build.scons
+END
+gtest.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1556/trunk/src/native_client/src/third_party_mod/gtest/gtest.gyp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party_mod/gtest/README
+END

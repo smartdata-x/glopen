@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1634/trunk/src/native_client/tests/drawing
+END
+drawing.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1426/trunk/src/native_client/tests/drawing/drawing.cc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/629/trunk/src/native_client/tests/drawing/README.txt
+END
+nacl_agg-2.5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/629/trunk/src/native_client/tests/drawing/nacl_agg-2.5.patch
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/629/trunk/src/native_client/tests/drawing/Makefile
+END
+drawing.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1634/trunk/src/native_client/tests/drawing/drawing.html
+END

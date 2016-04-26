@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2627/trunk/src/native_client/site_scons
+END
+sync_tgz.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1982/trunk/src/native_client/site_scons/sync_tgz.py
+END
+usage_log.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/usage_log.py
+END
+http_download.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/http_download.py
+END
+site_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/871/trunk/src/native_client/site_scons/site_init.py
+END

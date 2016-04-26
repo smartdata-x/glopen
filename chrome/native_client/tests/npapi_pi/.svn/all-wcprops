@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2092/trunk/src/native_client/tests/npapi_pi
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2092/trunk/src/native_client/tests/npapi_pi/nacl.scons
+END
+npp_gate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1623/trunk/src/native_client/tests/npapi_pi/npp_gate.cc
+END
+plugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1697/trunk/src/native_client/tests/npapi_pi/plugin.cc
+END
+npapi_pi.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1634/trunk/src/native_client/tests/npapi_pi/npapi_pi.html
+END
+plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1427/trunk/src/native_client/tests/npapi_pi/plugin.h
+END
+base_object.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1426/trunk/src/native_client/tests/npapi_pi/base_object.cc
+END
+base_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1427/trunk/src/native_client/tests/npapi_pi/base_object.h
+END

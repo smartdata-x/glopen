@@ -1,0 +1,73 @@
+# -*- python -*-
+# Copyright 2010 The Native Client Authors.  All rights reserved.
+# Use of this source code is governed by a BSD-style license that can
+# be found in the LICENSE file.
+
+Import('env')
+
+# tests in this directory contain (inline) assembler
+if ARGUMENTS.get('bitcode'):
+  Return()
+
+# This leaves a gap between the code and data segments.
+def GetLinkFlag(env):
+  if env['TARGET_ARCHITECTURE'] == 'arm':
+    # On ARM, we invoke the linker directly rather than via gcc.
+    # TODO(mseaborn): Change driver script to accept -Wl args.
+    return '--section-start=.rodata=0x1000000'
+  else:
+    return '-Wl,--section-start,.rodata=0x1000000'
+
+# for building the tests
+env.Append(LINKFLAGS=GetLinkFlag(env))
+
+def GetTemplate(env):
+  if env['TARGET_ARCHITECTURE'] == 'arm':
+    return 'templates_arm.S'
+  else:
+    return 'templates_x86.S'
+
+env.ComponentProgram('dynamic_load_test.nexe',
+                     ['dynamic_load_test.c',
+                      GetTemplate(env)])
+
+env.ComponentProgram('write_to_dyncode.nexe',
+                     ['write_to_dyncode.c'])
+
+env.ComponentProgram('dyncode_disabled_test.nexe',
+                     ['dyncode_disabled_test.c'])
+
+env.ComponentProgram('debug_mode_test.nexe',
+                     ['debug_mode_test.c',
+                      GetTemplate(env)])
+
+tests = [
+    env.CommandSelLdrTestNacl(
+        'dynamic_load_test.out',
+        command=[env.File('dynamic_load_test.nexe')],
+        osenv='NACLDYNCODE=1'
+        ),
+    env.CommandSelLdrTestNacl(
+        'write_to_dyncode.out',
+        command=[env.File('write_to_dyncode.nexe')],
+        exit_status='segfault',
+        stdout_golden=env.File('write_to_dyncode.stdout'),
+        osenv='NACLDYNCODE=1'
+        ),
+    env.CommandSelLdrTestNacl(
+        'dyncode_disabled_test.out',
+        command=[env.File('dyncode_disabled_test.nexe')]
+        ),
+    env.CommandSelLdrTestNacl(
+        'debug_mode_test.out',
+        sel_ldr_flags=["-d"],
+        command=[env.File('debug_mode_test.nexe')],
+        osenv='NACLDYNCODE=1',
+        ),
+  ]
+
+# TODO(kcc): non-standard linking options confuse Valgrind debug info reader.
+if not env.IsRunningUnderValgrind():
+  env.AddNodeToTestSuite(tests,
+                         ['small_tests', 'sel_ldr_tests'],
+                         'run_dynamic_load_test')

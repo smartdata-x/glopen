@@ -1,0 +1,28 @@
+K 10
+svn:ignore
+V 508
+nonnacl_util_c.rules
+nonnacl_util_c.mk
+nonnacl_util_c.scons
+nonnacl_util_c.vcproj
+nonnacl_util_chrome_main.scons
+nonnacl_util_chrome.rules
+nonnacl_util_chrome.mk
+nonnacl_util_chrome.scons
+nonnacl_util_chrome.sln
+nonnacl_util_chrome.vcproj
+nonnacl_util_chrome.xcodeproj
+nonnacl_util_main.scons
+nonnacl_util.rules
+nonnacl_util.mk
+nonnacl_util.scons
+nonnacl_util.sln
+nonnacl_util.vcproj
+nonnacl_util.xcodeproj
+SConstruct
+sel_ldr_launcher.rules
+sel_ldr_launcher.mk
+sel_ldr_launcher.scons
+sel_ldr_launcher.vcproj
+
+END

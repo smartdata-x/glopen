@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1427/trunk/src/native_client/tests/nthread_nice
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/642/trunk/src/native_client/tests/nthread_nice/nacl.scons
+END
+nthread_nice.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1427/trunk/src/native_client/tests/nthread_nice/nthread_nice.c
+END
+run.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/642/trunk/src/native_client/tests/nthread_nice/run.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/642/trunk/src/native_client/tests/nthread_nice/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/642/trunk/src/native_client/tests/nthread_nice/Makefile
+END

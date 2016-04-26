@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1634/trunk/src/native_client/tests/lua
+END
+lua.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1634/trunk/src/native_client/tests/lua/lua.html
+END
+README.nacl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/541/trunk/src/native_client/tests/lua/README.nacl
+END
+lua_module.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1623/trunk/src/native_client/tests/lua/lua_module.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1300/trunk/src/native_client/tests/lua/Makefile
+END

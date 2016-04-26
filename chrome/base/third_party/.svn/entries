@@ -1,0 +1,58 @@
+10
+
+dir
+52288
+http://src.chromium.org/svn/trunk/src/base/third_party
+http://src.chromium.org/svn
+
+
+
+2010-06-21T14:54:15.278105Z
+50352
+glider@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+icu
+dir
+
+xdg_user_dirs
+dir
+
+dynamic_annotations
+dir
+
+nspr
+dir
+
+nss
+dir
+
+valgrind
+dir
+
+xdg_mime
+dir
+
+dmg_fp
+dir
+
+symbolize
+dir
+
+purify
+dir
+

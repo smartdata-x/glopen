@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/42020/trunk/src/base/third_party/nss
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/42020/trunk/src/base/third_party/nss/README.chromium
+END
+blapit.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8/trunk/src/base/third_party/nss/blapit.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/42020/trunk/src/base/third_party/nss/LICENSE
+END
+sha512.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37289/trunk/src/base/third_party/nss/sha512.cc
+END
+blapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37289/trunk/src/base/third_party/nss/blapi.h
+END
+sha256.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8/trunk/src/base/third_party/nss/sha256.h
+END

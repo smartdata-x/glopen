@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1634/trunk/src/native_client/tests/vim
+END
+vim_tool.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/541/trunk/src/native_client/tests/vim/vim_tool.sh
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1411/trunk/src/native_client/tests/vim/nacl.scons
+END
+vim-7.2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/541/trunk/src/native_client/tests/vim/vim-7.2.patch
+END
+vim.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1634/trunk/src/native_client/tests/vim/vim.html
+END

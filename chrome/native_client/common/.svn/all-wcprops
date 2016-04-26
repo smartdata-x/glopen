@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1571/trunk/src/native_client/common
+END
+worker.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/623/trunk/src/native_client/common/worker.h
+END
+SDLApplication.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/542/trunk/src/native_client/common/SDLApplication.m
+END
+nacl_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/542/trunk/src/native_client/common/nacl_util.py
+END
+Makefile.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1571/trunk/src/native_client/common/Makefile.mk
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/542/trunk/src/native_client/common/README.txt
+END
+standalone.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/542/trunk/src/native_client/common/standalone.cc
+END
+standalone.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/542/trunk/src/native_client/common/standalone.h
+END

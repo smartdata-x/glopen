@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1030/trunk/src/native_client/tools/tests/ldscripts
+END
+elf_nacl.x
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1030/trunk/src/native_client/tools/tests/ldscripts/elf_nacl.x
+END
+elf_nacl.xs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1030/trunk/src/native_client/tools/tests/ldscripts/elf_nacl.xs
+END

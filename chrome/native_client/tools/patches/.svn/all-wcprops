@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2614/trunk/src/native_client/tools/patches
+END
+qemu-0.10.1.patch_arm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1074/trunk/src/native_client/tools/patches/qemu-0.10.1.patch_arm
+END
+qemu-0.11.0.patch_arm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1074/trunk/src/native_client/tools/patches/qemu-0.11.0.patch_arm
+END
+libgcc-arm-lib1funcs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1570/trunk/src/native_client/tools/patches/libgcc-arm-lib1funcs.patch
+END
+glibc-2.9.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/542/trunk/src/native_client/tools/patches/glibc-2.9.patch
+END
+llvm-update-plugin.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2460/trunk/src/native_client/tools/patches/llvm-update-plugin.patch
+END
+llvm-r88663.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2504/trunk/src/native_client/tools/patches/llvm-r88663.patch
+END
+libgcc-arm-libunwind.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2116/trunk/src/native_client/tools/patches/libgcc-arm-libunwind.patch
+END
+binutils-2.20-gas-vnmla.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2182/trunk/src/native_client/tools/patches/binutils-2.20-gas-vnmla.patch
+END
+binutils-2.20.ly.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1024/trunk/src/native_client/tools/patches/binutils-2.20.ly.patch
+END
+newlib-1.18.0_nosys.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2020/trunk/src/native_client/tools/patches/newlib-1.18.0_nosys.patch
+END
+binutils-2.20-gas-vmls.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2207/trunk/src/native_client/tools/patches/binutils-2.20-gas-vmls.patch
+END
+binutils-2.20-gas-vcvt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2158/trunk/src/native_client/tools/patches/binutils-2.20-gas-vcvt.patch
+END
+newlib-1.17.0_arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2306/trunk/src/native_client/tools/patches/newlib-1.17.0_arm.patch
+END
+gold-output-name.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2457/trunk/src/native_client/tools/patches/gold-output-name.patch
+END
+binutils-2.20-gas-vmrs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2181/trunk/src/native_client/tools/patches/binutils-2.20-gas-vmrs.patch
+END
+llvm-gcc-104870.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2382/trunk/src/native_client/tools/patches/llvm-gcc-104870.patch
+END
+gold-update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2503/trunk/src/native_client/tools/patches/gold-update.patch
+END
+llvm-gcc-104753.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2380/trunk/src/native_client/tools/patches/llvm-gcc-104753.patch
+END
+gold-visibility.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2457/trunk/src/native_client/tools/patches/gold-visibility.patch
+END
+libstdcpp-eh_arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2210/trunk/src/native_client/tools/patches/libstdcpp-eh_arm.patch
+END
+binutils-2.20-gas.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2141/trunk/src/native_client/tools/patches/binutils-2.20-gas.patch
+END

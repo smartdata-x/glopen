@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2529/trunk/src/native_client/tests/spec2k/254.gap
+END
+diff.README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2529/trunk/src/native_client/tests/spec2k/254.gap/diff.README
+END
+run.ref.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2424/trunk/src/native_client/tests/spec2k/254.gap/run.ref.sh
+END
+diff
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2529/trunk/src/native_client/tests/spec2k/254.gap/diff
+END
+run.train.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2424/trunk/src/native_client/tests/spec2k/254.gap/run.train.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2424/trunk/src/native_client/tests/spec2k/254.gap/Makefile
+END

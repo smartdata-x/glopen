@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72099/trunk/src/ppapi/shared_impl
+END
+image_data_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/72053/trunk/src/ppapi/shared_impl/image_data_impl.cc
+END
+image_data_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/72053/trunk/src/ppapi/shared_impl/image_data_impl.h
+END
+audio_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72099/trunk/src/ppapi/shared_impl/audio_impl.cc
+END
+audio_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/71527/trunk/src/ppapi/shared_impl/audio_impl.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72053/trunk/src/ppapi/shared_impl/DEPS
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/68026/trunk/src/ppapi/shared_impl/README.txt
+END

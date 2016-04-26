@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2092/trunk/src/native_client/tests/earth
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2092/trunk/src/native_client/tests/earth/nacl.scons
+END
+earth.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1854/trunk/src/native_client/tests/earth/earth.html
+END
+earth.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1426/trunk/src/native_client/tests/earth/earth.cc
+END
+run.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/541/trunk/src/native_client/tests/earth/run.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/541/trunk/src/native_client/tests/earth/README.txt
+END
+earth_image.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/541/trunk/src/native_client/tests/earth/earth_image.inc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/541/trunk/src/native_client/tests/earth/Makefile
+END

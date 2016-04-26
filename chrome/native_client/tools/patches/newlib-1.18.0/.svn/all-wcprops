@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2353/trunk/src/native_client/tools/patches/newlib-1.18.0
+END
+0002-newlib-NaCl-newlib-bulk.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2350/trunk/src/native_client/tools/patches/newlib-1.18.0/0002-newlib-NaCl-newlib-bulk.patch
+END
+0013-newlib-build-newlib-with-nanosleep-enabled.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2353/trunk/src/native_client/tools/patches/newlib-1.18.0/0013-newlib-build-newlib-with-nanosleep-enabled.patch
+END

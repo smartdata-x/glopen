@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1303/trunk/src/native_client/tests/tparty
+END
+README.nacl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/762/trunk/src/native_client/tests/tparty/README.nacl
+END
+tparty.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1303/trunk/src/native_client/tests/tparty/tparty.sh
+END

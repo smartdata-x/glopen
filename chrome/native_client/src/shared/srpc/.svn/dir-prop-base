@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 125
+nonnacl_srpc.rules
+nonnacl_srpc.mk
+nonnacl_srpc.scons
+nonnacl_srpc.vcproj
+SConstruct
+srpc_main.scons
+srpc.sln
+srpc.xcodeproj
+
+END

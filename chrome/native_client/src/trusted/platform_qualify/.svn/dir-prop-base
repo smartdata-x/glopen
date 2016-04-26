@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 181
+platform_qual_lib.rules
+platform_qual_lib.mk
+platform_qual_lib.scons
+platform_qual_lib.vcproj
+platform_qualify_main.scons
+platform_qualify.sln
+platform_qualify.xcodeproj
+SConstruct
+
+END

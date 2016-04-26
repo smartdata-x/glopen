@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2019/trunk/src/native_client/src/trusted/service_runtime/include/bits
+END
+nacl_syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2019/trunk/src/native_client/src/trusted/service_runtime/include/bits/nacl_syscalls.h
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1614/trunk/src/native_client/src/trusted/service_runtime/include/bits/stat.h
+END
+nacl_imc_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1574/trunk/src/native_client/src/trusted/service_runtime/include/bits/nacl_imc_api.h
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/include/bits/limits.h
+END
+wordsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1574/trunk/src/native_client/src/trusted/service_runtime/include/bits/wordsize.h
+END
+mman.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1614/trunk/src/native_client/src/trusted/service_runtime/include/bits/mman.h
+END

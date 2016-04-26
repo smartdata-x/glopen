@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2574/trunk/src/native_client/tests/prebuilt/x86
+END
+srpc_shm.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2574/trunk/src/native_client/tests/prebuilt/x86/srpc_shm.html
+END
+srpc_sockaddr.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2574/trunk/src/native_client/tests/prebuilt/x86/srpc_sockaddr.html
+END
+srpc_plugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2574/trunk/src/native_client/tests/prebuilt/x86/srpc_plugin.html
+END
+srpc_nrd_server.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1545/trunk/src/native_client/tests/prebuilt/x86/srpc_nrd_server.nexe
+END
+nacl.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1833/trunk/src/native_client/tests/prebuilt/x86/nacl.png
+END
+srpc_nrd_xfer.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2574/trunk/src/native_client/tests/prebuilt/x86/srpc_nrd_xfer.html
+END
+srpc_hw.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1545/trunk/src/native_client/tests/prebuilt/x86/srpc_hw.nexe
+END
+npapi_hw.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2011/trunk/src/native_client/tests/prebuilt/x86/npapi_hw.nexe
+END
+srpc_test.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1545/trunk/src/native_client/tests/prebuilt/x86/srpc_test.nexe
+END
+srpc_nrd_client.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1545/trunk/src/native_client/tests/prebuilt/x86/srpc_nrd_client.nexe
+END
+pepper_plugin.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1776/trunk/src/native_client/tests/prebuilt/x86/pepper_plugin.nexe
+END
+srpc_hw.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2574/trunk/src/native_client/tests/prebuilt/x86/srpc_hw.html
+END
+server_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2029/trunk/src/native_client/tests/prebuilt/x86/server_test.html
+END
+npapi_hw.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2574/trunk/src/native_client/tests/prebuilt/x86/npapi_hw.html
+END
+nacl_js_lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1876/trunk/src/native_client/tests/prebuilt/x86/nacl_js_lib.js
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1906/trunk/src/native_client/tests/prebuilt/x86/index.html
+END
+srpc_basic.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2574/trunk/src/native_client/tests/prebuilt/x86/srpc_basic.html
+END
+srpc_shm.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1545/trunk/src/native_client/tests/prebuilt/x86/srpc_shm.nexe
+END
+pepper_plugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1906/trunk/src/native_client/tests/prebuilt/x86/pepper_plugin.html
+END

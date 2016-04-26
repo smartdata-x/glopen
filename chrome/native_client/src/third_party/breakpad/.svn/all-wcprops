@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1806/trunk/src/native_client/src/third_party/breakpad
+END
+breakpad_sender.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1593/trunk/src/native_client/src/third_party/breakpad/breakpad_sender.gypi
+END
+breakpad.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1806/trunk/src/native_client/src/third_party/breakpad/breakpad.gyp
+END
+breakpad_handler.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1593/trunk/src/native_client/src/third_party/breakpad/breakpad_handler.gypi
+END

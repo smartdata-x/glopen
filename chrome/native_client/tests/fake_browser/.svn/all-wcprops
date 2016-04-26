@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2628/trunk/src/native_client/tests/fake_browser
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2609/trunk/src/native_client/tests/fake_browser/nacl.scons
+END
+fake_browser_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2628/trunk/src/native_client/tests/fake_browser/fake_browser_test.cc
+END

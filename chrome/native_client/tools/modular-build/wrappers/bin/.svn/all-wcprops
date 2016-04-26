@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2627/trunk/src/native_client/tools/modular-build/wrappers/bin
+END
+nacl-glibc-spec
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2627/trunk/src/native_client/tools/modular-build/wrappers/bin/nacl-glibc-spec
+END
+nacl-glibc-gcc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2627/trunk/src/native_client/tools/modular-build/wrappers/bin/nacl-glibc-gcc
+END

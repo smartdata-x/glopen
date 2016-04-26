@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2627/trunk/src/native_client/site_scons/site_tools
+END
+code_signing.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/code_signing.py
+END
+component_targets.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/component_targets.py
+END
+component_builders.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/component_builders.py
+END
+directx_9_18_944_0_partial.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/directx_9_18_944_0_partial.py
+END
+command_output.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/command_output.py
+END
+collada_dom.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/collada_dom.py
+END
+seven_zip.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/seven_zip.py
+END
+component_targets_msvs.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/component_targets_msvs.py
+END
+atlmfc_vc80.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/atlmfc_vc80.py
+END
+wix.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/895/trunk/src/native_client/site_scons/site_tools/wix.py
+END
+distcc.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/distcc.py
+END
+target_optimized.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/target_optimized.py
+END
+directx_9_0_c.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/directx_9_0_c.py
+END
+naclsdk.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2627/trunk/src/native_client/site_scons/site_tools/naclsdk.py
+END
+component_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/component_setup.py
+END
+replace_strings.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/replace_strings.py
+END
+environment_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/environment_tools.py
+END
+defer.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/defer.py
+END
+code_coverage.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/code_coverage.py
+END
+visual_studio_solution.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/visual_studio_solution.py
+END
+concat_source.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/concat_source.py
+END
+target_debug.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/target_debug.py
+END
+target_platform_windows.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2095/trunk/src/native_client/site_scons/site_tools/target_platform_windows.py
+END
+windows_hard_link.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/windows_hard_link.py
+END
+publish.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/publish.py
+END
+uuid.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/895/trunk/src/native_client/site_scons/site_tools/uuid.py
+END
+replicate.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/replicate.py
+END
+target_platform_linux.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/947/trunk/src/native_client/site_scons/site_tools/target_platform_linux.py
+END
+target_platform_mac.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/947/trunk/src/native_client/site_scons/site_tools/target_platform_mac.py
+END
+component_targets_xml.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/component_targets_xml.py
+END
+gather_inputs.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/gather_inputs.py
+END
+sdl.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1628/trunk/src/native_client/site_scons/site_tools/sdl.py
+END
+component_bits.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/542/trunk/src/native_client/site_scons/site_tools/component_bits.py
+END

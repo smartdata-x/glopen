@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2410/trunk/src/native_client/tools/tests
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2203/trunk/src/native_client/tools/tests/nacl.scons
+END
+test_toolchain.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2142/trunk/src/native_client/tools/tests/test_toolchain.py
+END
+hello_world_gdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2004/trunk/src/native_client/tools/tests/hello_world_gdb.c
+END
+hello_world_gdb.stdout
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2004/trunk/src/native_client/tools/tests/hello_world_gdb.stdout
+END
+libs_present_stub.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/830/trunk/src/native_client/tools/tests/libs_present_stub.cc
+END
+hello_world_gdb.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2004/trunk/src/native_client/tools/tests/hello_world_gdb.in
+END
+libs_present_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/830/trunk/src/native_client/tools/tests/libs_present_stub.h
+END
+libs_present_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1638/trunk/src/native_client/tools/tests/libs_present_test.cc
+END
+npp_gate.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/947/trunk/src/native_client/tools/tests/npp_gate.c
+END

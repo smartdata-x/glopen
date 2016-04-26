@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1705/trunk/src/native_client/src/trusted/nonnacl_util/osx
+END
+get_plugin_dirname.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1705/trunk/src/native_client/src/trusted/nonnacl_util/osx/get_plugin_dirname.mm
+END

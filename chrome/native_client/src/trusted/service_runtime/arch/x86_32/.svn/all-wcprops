@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2487/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32
+END
+nacl_syscall_weak.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/878/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/nacl_syscall_weak.S
+END
+sel_rt_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/sel_rt_32.h
+END
+nacl_app_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2196/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/nacl_app_32.c
+END
+nacl_switch_32.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/nacl_switch_32.S
+END
+sel_addrspace_x86_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2487/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/sel_addrspace_x86_32.c
+END
+nacl_tls_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/nacl_tls_32.c
+END
+nacl_switch_to_app_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/nacl_switch_to_app_32.c
+END
+tramp_32.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1450/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/tramp_32.S
+END
+service_runtime_x86_32.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1704/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/service_runtime_x86_32.gyp
+END
+springboard.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/springboard.S
+END
+nacl_syscall_32.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/nacl_syscall_32.S
+END
+sel_rt_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/sel_rt_32.c
+END
+tramp_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/tramp_32.h
+END
+sel_ldr_x86_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2481/trunk/src/native_client/src/trusted/service_runtime/arch/x86_32/sel_ldr_x86_32.c
+END

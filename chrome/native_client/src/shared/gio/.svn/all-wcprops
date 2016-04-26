@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2455/trunk/src/native_client/src/shared/gio
+END
+gio_mem_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2095/trunk/src/native_client/src/shared/gio/gio_mem_test.cc
+END
+gio.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1881/trunk/src/native_client/src/shared/gio/gio.c
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1576/trunk/src/native_client/src/shared/gio/nacl.scons
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2455/trunk/src/native_client/src/shared/gio/build.scons
+END
+gio.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1974/trunk/src/native_client/src/shared/gio/gio.h
+END
+gprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1574/trunk/src/native_client/src/shared/gio/gprintf.c
+END
+gio.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1574/trunk/src/native_client/src/shared/gio/gio.gyp
+END
+gio_mem_snapshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1574/trunk/src/native_client/src/shared/gio/gio_mem_snapshot.c
+END
+gio_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1974/trunk/src/native_client/src/shared/gio/gio_mem.c
+END

@@ -1,0 +1,659 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/52275/trunk/src/net/http
+END
+http_net_log_params.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/52100/trunk/src/net/http/http_net_log_params.h
+END
+http_network_session.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/52275/trunk/src/net/http/http_network_session.cc
+END
+http_auth_handler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/50361/trunk/src/net/http/http_auth_handler_unittest.cc
+END
+http_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45096/trunk/src/net/http/http_stream.h
+END
+http_auth_handler_basic_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/50088/trunk/src/net/http/http_auth_handler_basic_unittest.cc
+END
+http_network_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/52275/trunk/src/net/http/http_network_session.h
+END
+http_auth_handler_basic.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/49398/trunk/src/net/http/http_auth_handler_basic.cc
+END
+http_network_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/52275/trunk/src/net/http/http_network_transaction.h
+END
+http_cache_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/52185/trunk/src/net/http/http_cache_unittest.cc
+END
+http_auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/50696/trunk/src/net/http/http_auth.h
+END
+http_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/52185/trunk/src/net/http/http_cache.cc
+END
+http_auth_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/52214/trunk/src/net/http/http_auth_controller.cc
+END
+http_auth_handler_ntlm_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/49398/trunk/src/net/http/http_auth_handler_ntlm_win.cc
+END
+http_auth_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/52214/trunk/src/net/http/http_auth_controller.h
+END
+http_chunked_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28833/trunk/src/net/http/http_chunked_decoder.h
+END
+http_cache_transaction.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/51576/trunk/src/net/http/http_cache_transaction.cc
+END
+http_response_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/50927/trunk/src/net/http/http_response_info.cc
+END
+http_cache_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/50731/trunk/src/net/http/http_cache_transaction.h
+END
+http_vary_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45096/trunk/src/net/http/http_vary_data.cc
+END
+http_auth_sspi_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/51387/trunk/src/net/http/http_auth_sspi_win.cc
+END
+http_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46349/trunk/src/net/http/http_util.cc
+END
+http_byte_range_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40991/trunk/src/net/http/http_byte_range_unittest.cc
+END
+http_auth_sspi_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/51387/trunk/src/net/http/http_auth_sspi_win.h
+END
+http_byte_range.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46349/trunk/src/net/http/http_byte_range.cc
+END
+http_auth_handler_ntlm_portable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49398/trunk/src/net/http/http_auth_handler_ntlm_portable.cc
+END
+http_proxy_client_socket_pool.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/52107/trunk/src/net/http/http_proxy_client_socket_pool.cc
+END
+http_alternate_protocols_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45975/trunk/src/net/http/http_alternate_protocols_unittest.cc
+END
+http_proxy_client_socket_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/52275/trunk/src/net/http/http_proxy_client_socket_pool.h
+END
+http_alternate_protocols.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/44663/trunk/src/net/http/http_alternate_protocols.cc
+END
+http_auth_handler_factory_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/51001/trunk/src/net/http/http_auth_handler_factory_unittest.cc
+END
+url_security_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47831/trunk/src/net/http/url_security_manager.cc
+END
+http_auth_filter_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/42600/trunk/src/net/http/http_auth_filter_win.h
+END
+http_network_layer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/52022/trunk/src/net/http/http_network_layer.cc
+END
+url_security_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/47831/trunk/src/net/http/url_security_manager.h
+END
+http_proxy_client_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52275/trunk/src/net/http/http_proxy_client_socket.cc
+END
+partial_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/49542/trunk/src/net/http/partial_data.h
+END
+http_auth_gssapi_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/51387/trunk/src/net/http/http_auth_gssapi_posix.cc
+END
+mock_sspi_library_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/51387/trunk/src/net/http/mock_sspi_library_win.cc
+END
+http_response_headers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/51001/trunk/src/net/http/http_response_headers.cc
+END
+http_auth_handler_negotiate_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/51387/trunk/src/net/http/http_auth_handler_negotiate_unittest.cc
+END
+http_auth_handler_digest_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49052/trunk/src/net/http/http_auth_handler_digest_unittest.cc
+END
+http_basic_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/41689/trunk/src/net/http/http_basic_stream.cc
+END
+http_network_transaction_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/52275/trunk/src/net/http/http_network_transaction_unittest.cc
+END
+http_auth_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/51387/trunk/src/net/http/http_auth_handler.cc
+END
+http_basic_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45096/trunk/src/net/http/http_basic_stream.h
+END
+url_security_manager_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47831/trunk/src/net/http/url_security_manager_win.cc
+END
+http_auth_handler_basic.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49398/trunk/src/net/http/http_auth_handler_basic.h
+END
+http_auth.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/50696/trunk/src/net/http/http_auth.cc
+END
+http_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/52111/trunk/src/net/http/http_cache.h
+END
+http_chunked_decoder_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28833/trunk/src/net/http/http_chunked_decoder_unittest.cc
+END
+http_request_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45096/trunk/src/net/http/http_request_info.h
+END
+http_auth_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43493/trunk/src/net/http/http_auth_filter.h
+END
+http_auth_sspi_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45046/trunk/src/net/http/http_auth_sspi_win_unittest.cc
+END
+des.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/37358/trunk/src/net/http/des.cc
+END
+des.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10667/trunk/src/net/http/des.h
+END
+http_proxy_client_socket_pool_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/52275/trunk/src/net/http/http_proxy_client_socket_pool_unittest.cc
+END
+http_byte_range.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40991/trunk/src/net/http/http_byte_range.h
+END
+url_security_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/50566/trunk/src/net/http/url_security_manager_unittest.cc
+END
+http_alternate_protocols.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/44663/trunk/src/net/http/http_alternate_protocols.h
+END
+http_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11865/trunk/src/net/http/http_version.h
+END
+http_auth_handler_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49052/trunk/src/net/http/http_auth_handler_factory.h
+END
+http_proxy_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/52275/trunk/src/net/http/http_proxy_client_socket.h
+END
+http_network_transaction.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52275/trunk/src/net/http/http_network_transaction.cc
+END
+http_auth_handler_digest.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/49398/trunk/src/net/http/http_auth_handler_digest.h
+END
+http_auth_handler_negotiate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/51387/trunk/src/net/http/http_auth_handler_negotiate.h
+END
+http_auth_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43493/trunk/src/net/http/http_auth_filter_unittest.cc
+END
+http_chunked_decoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46349/trunk/src/net/http/http_chunked_decoder.cc
+END
+url_security_manager_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/44811/trunk/src/net/http/url_security_manager_posix.cc
+END
+http_stream_parser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/47878/trunk/src/net/http/http_stream_parser.cc
+END
+http_auth_handler_mock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/50344/trunk/src/net/http/http_auth_handler_mock.cc
+END
+des_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10667/trunk/src/net/http/des_unittest.cc
+END
+http_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46349/trunk/src/net/http/http_util_unittest.cc
+END
+http_vary_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45096/trunk/src/net/http/http_vary_data.h
+END
+http_transaction_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28086/trunk/src/net/http/http_transaction_factory.h
+END
+http_request_headers_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45096/trunk/src/net/http/http_request_headers_unittest.cc
+END
+http_request_headers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46612/trunk/src/net/http/http_request_headers.cc
+END
+http_network_layer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/50895/trunk/src/net/http/http_network_layer_unittest.cc
+END
+http_auth_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/47786/trunk/src/net/http/http_auth_cache.cc
+END
+http_transaction_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/46349/trunk/src/net/http/http_transaction_unittest.cc
+END
+http_auth_handler_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/49052/trunk/src/net/http/http_auth_handler_factory.cc
+END
+http_auth_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/47786/trunk/src/net/http/http_auth_cache.h
+END
+http_transaction_unittest.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/46349/trunk/src/net/http/http_transaction_unittest.h
+END
+partial_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/49542/trunk/src/net/http/partial_data.cc
+END
+md4.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10982/trunk/src/net/http/md4.h
+END
+http_response_headers_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/46349/trunk/src/net/http/http_response_headers_unittest.cc
+END
+http_auth_gssapi_posix_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49678/trunk/src/net/http/http_auth_gssapi_posix_unittest.cc
+END
+http_atom_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11442/trunk/src/net/http/http_atom_list.h
+END
+http_auth_handler_digest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49398/trunk/src/net/http/http_auth_handler_digest.cc
+END
+http_auth_handler_negotiate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/51387/trunk/src/net/http/http_auth_handler_negotiate.cc
+END
+http_auth_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/51001/trunk/src/net/http/http_auth_unittest.cc
+END
+http_auth_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/51387/trunk/src/net/http/http_auth_handler.h
+END
+http_auth_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/43493/trunk/src/net/http/http_auth_filter.cc
+END
+http_stream_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45096/trunk/src/net/http/http_stream_parser.h
+END
+http_vary_data_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/45096/trunk/src/net/http/http_vary_data_unittest.cc
+END
+http_auth_handler_mock.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/50344/trunk/src/net/http/http_auth_handler_mock.h
+END
+http_response_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/50927/trunk/src/net/http/http_response_info.h
+END
+http_util_icu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/26551/trunk/src/net/http/http_util_icu.cc
+END
+http_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46349/trunk/src/net/http/http_util.h
+END
+http_auth_cache_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49398/trunk/src/net/http/http_auth_cache_unittest.cc
+END
+http_request_headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46612/trunk/src/net/http/http_request_headers.h
+END
+md4.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10982/trunk/src/net/http/md4.cc
+END
+http_network_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/49804/trunk/src/net/http/http_network_delegate.h
+END
+http_network_layer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/52111/trunk/src/net/http/http_network_layer.h
+END
+http_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45096/trunk/src/net/http/http_transaction.h
+END
+http_auth_handler_ntlm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/51387/trunk/src/net/http/http_auth_handler_ntlm.cc
+END
+http_auth_handler_ntlm.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/49398/trunk/src/net/http/http_auth_handler_ntlm.h
+END
+http_response_headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/51001/trunk/src/net/http/http_response_headers.h
+END
+mock_sspi_library_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45046/trunk/src/net/http/mock_sspi_library_win.h
+END
+http_auth_gssapi_posix.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/51387/trunk/src/net/http/http_auth_gssapi_posix.h
+END

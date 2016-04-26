@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45665/trunk/src/testing/gmock/scripts
+END
+gmock_doctor.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/35352/trunk/src/testing/gmock/scripts/gmock_doctor.py
+END
+gmock-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45665/trunk/src/testing/gmock/scripts/gmock-config.in
+END
+fuse_gmock_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/35352/trunk/src/testing/gmock/scripts/fuse_gmock_files.py
+END
+upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/35352/trunk/src/testing/gmock/scripts/upload.py
+END
+upload_gmock.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/35352/trunk/src/testing/gmock/scripts/upload_gmock.py
+END

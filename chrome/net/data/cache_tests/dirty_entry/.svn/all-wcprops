@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12820/trunk/src/net/data/cache_tests/dirty_entry
+END
+index
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12820/trunk/src/net/data/cache_tests/dirty_entry/index
+END
+data_0
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12820/trunk/src/net/data/cache_tests/dirty_entry/data_0
+END
+data_1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12820/trunk/src/net/data/cache_tests/dirty_entry/data_1
+END
+data_2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12820/trunk/src/net/data/cache_tests/dirty_entry/data_2
+END
+contents.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12820/trunk/src/net/data/cache_tests/dirty_entry/contents.txt
+END
+data_3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12820/trunk/src/net/data/cache_tests/dirty_entry/data_3
+END

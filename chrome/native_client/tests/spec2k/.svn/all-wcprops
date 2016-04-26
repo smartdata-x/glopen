@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2546/trunk/src/native_client/tests/spec2k
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2424/trunk/src/native_client/tests/spec2k/Makefile.common
+END
+run_all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2546/trunk/src/native_client/tests/spec2k/run_all.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2424/trunk/src/native_client/tests/spec2k/README
+END

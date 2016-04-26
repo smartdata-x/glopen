@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 54
+ldrhandle.vcproj
+browserhandle.vcproj
+handle_pass.sln
+
+END

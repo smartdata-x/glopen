@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2455/trunk/src/native_client/src/trusted/desc
+END
+nacl_desc_effector_ldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nacl_desc_effector_ldr.h
+END
+nrd_xfer_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/779/trunk/src/native_client/src/trusted/desc/nrd_xfer_test.sh
+END
+nacl_desc_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1881/trunk/src/native_client/src/trusted/desc/nacl_desc_io.c
+END
+nacl_desc_imc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/desc/nacl_desc_imc.c
+END
+nacl_desc_base.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1881/trunk/src/native_client/src/trusted/desc/nacl_desc_base.c
+END
+nrd_xfer_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/desc/nrd_xfer_test.c
+END
+nrd_xfer.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1959/trunk/src/native_client/src/trusted/desc/nrd_xfer.c
+END
+nacl_desc_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nacl_desc_io.h
+END
+nacl_desc_imc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nacl_desc_imc.h
+END
+nacl_desc_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/desc/nacl_desc_dir.c
+END
+nacl_desc_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1881/trunk/src/native_client/src/trusted/desc/nacl_desc_base.h
+END
+nacl_desc_imc_shm.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/trunk/src/native_client/src/trusted/desc/nacl_desc_imc_shm.c
+END
+nrd_xfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nrd_xfer.h
+END
+nacl_desc_dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nacl_desc_dir.h
+END
+nacl_desc_cond.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/desc/nacl_desc_cond.c
+END
+nacl_desc_wrapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2120/trunk/src/native_client/src/trusted/desc/nacl_desc_wrapper.cc
+END
+nacl_desc_imc_shm.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/trunk/src/native_client/src/trusted/desc/nacl_desc_imc_shm.h
+END
+nacl_desc_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1742/trunk/src/native_client/src/trusted/desc/nacl_desc_wrapper.h
+END
+nacl_desc_invalid.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2109/trunk/src/native_client/src/trusted/desc/nacl_desc_invalid.c
+END
+nacl_desc_cond.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nacl_desc_cond.h
+END
+nrd_xfer_effector.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/desc/nrd_xfer_effector.c
+END
+nacl_desc_invalid.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nacl_desc_invalid.h
+END
+nrd_xfer_effector.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nrd_xfer_effector.h
+END
+desc.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1881/trunk/src/native_client/src/trusted/desc/desc.gyp
+END
+nacl_desc_mutex.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/desc/nacl_desc_mutex.c
+END
+nacl_desc_effector_cleanup.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1614/trunk/src/native_client/src/trusted/desc/nacl_desc_effector_cleanup.c
+END
+nacl_desc_effector_trusted_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1881/trunk/src/native_client/src/trusted/desc/nacl_desc_effector_trusted_mem.c
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2455/trunk/src/native_client/src/trusted/desc/build.scons
+END
+nacl_desc_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nacl_desc_mutex.h
+END
+nrd_all_modules.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1311/trunk/src/native_client/src/trusted/desc/nrd_all_modules.c
+END
+nacl_desc_effector_cleanup.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nacl_desc_effector_cleanup.h
+END
+nacl_desc_effector_trusted_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1881/trunk/src/native_client/src/trusted/desc/nacl_desc_effector_trusted_mem.h
+END
+nrd_all_modules.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nrd_all_modules.h
+END
+nacl_desc_conn_cap.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1880/trunk/src/native_client/src/trusted/desc/nacl_desc_conn_cap.c
+END
+nacl_desc_semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/desc/nacl_desc_semaphore.c
+END
+nacl_desc_sync_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1058/trunk/src/native_client/src/trusted/desc/nacl_desc_sync_socket.c
+END
+nacl_desc_conn_cap.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nacl_desc_conn_cap.h
+END
+nacl_desc_semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nacl_desc_semaphore.h
+END
+nacl_desc_sync_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1058/trunk/src/native_client/src/trusted/desc/nacl_desc_sync_socket.h
+END
+nacl_desc_imc_bound_desc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/desc/nacl_desc_imc_bound_desc.c
+END
+nacl_desc_effector_ldr.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/desc/nacl_desc_effector_ldr.c
+END
+nacl_desc_effector.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1614/trunk/src/native_client/src/trusted/desc/nacl_desc_effector.h
+END
+nacl_desc_imc_bound_desc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/desc/nacl_desc_imc_bound_desc.h
+END

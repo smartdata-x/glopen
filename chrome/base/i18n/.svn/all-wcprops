@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/51471/trunk/src/base/i18n
+END
+icu_string_conversions_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40991/trunk/src/base/i18n/icu_string_conversions_unittest.cc
+END
+icu_string_conversions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40991/trunk/src/base/i18n/icu_string_conversions.cc
+END
+rtl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/42183/trunk/src/base/i18n/rtl_unittest.cc
+END
+icu_string_conversions.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40991/trunk/src/base/i18n/icu_string_conversions.h
+END
+rtl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/51471/trunk/src/base/i18n/rtl.cc
+END
+icu_util_nacl_win64.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/33872/trunk/src/base/i18n/icu_util_nacl_win64.cc
+END
+rtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/50597/trunk/src/base/i18n/rtl.h
+END
+file_util_icu_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/35321/trunk/src/base/i18n/file_util_icu_unittest.cc
+END
+file_util_icu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40991/trunk/src/base/i18n/file_util_icu.cc
+END
+icu_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40991/trunk/src/base/i18n/icu_util.cc
+END
+file_util_icu.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/29832/trunk/src/base/i18n/file_util_icu.h
+END
+icu_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40991/trunk/src/base/i18n/icu_util.h
+END
+number_formatting.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40991/trunk/src/base/i18n/number_formatting.cc
+END
+word_iterator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/50597/trunk/src/base/i18n/word_iterator_unittest.cc
+END
+number_formatting.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28405/trunk/src/base/i18n/number_formatting.h
+END
+word_iterator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/50597/trunk/src/base/i18n/word_iterator.cc
+END
+icu_encoding_detection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46900/trunk/src/base/i18n/icu_encoding_detection.cc
+END
+word_iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/50597/trunk/src/base/i18n/word_iterator.h
+END
+icu_encoding_detection.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46900/trunk/src/base/i18n/icu_encoding_detection.h
+END
+time_formatting.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40991/trunk/src/base/i18n/time_formatting.cc
+END
+time_formatting.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40991/trunk/src/base/i18n/time_formatting.h
+END

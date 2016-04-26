@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2584/trunk/src/native_client/tools/toolchain_tester
+END
+toolchain_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2584/trunk/src/native_client/tools/toolchain_tester/toolchain_config.py
+END
+toolchain_tester.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2584/trunk/src/native_client/tools/toolchain_tester/toolchain_tester.py
+END

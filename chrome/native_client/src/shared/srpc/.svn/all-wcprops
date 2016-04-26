@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2588/trunk/src/native_client/src/shared/srpc
+END
+imc_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1252/trunk/src/native_client/src/shared/srpc/imc_buffer.c
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2455/trunk/src/native_client/src/shared/srpc/build.scons
+END
+utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1638/trunk/src/native_client/src/shared/srpc/utility.c
+END
+rpc_server_loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1174/trunk/src/native_client/src/shared/srpc/rpc_server_loop.c
+END
+rpc_service.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1981/trunk/src/native_client/src/shared/srpc/rpc_service.c
+END
+nacl_srpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1174/trunk/src/native_client/src/shared/srpc/nacl_srpc.c
+END
+nacl_srpc_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2001/trunk/src/native_client/src/shared/srpc/nacl_srpc_internal.h
+END
+nacl_srpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1981/trunk/src/native_client/src/shared/srpc/nacl_srpc.h
+END
+rpc_universal.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2156/trunk/src/native_client/src/shared/srpc/rpc_universal.c
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1174/trunk/src/native_client/src/shared/srpc/nacl.scons
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1338/trunk/src/native_client/src/shared/srpc/main.c
+END
+srpc.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1436/trunk/src/native_client/src/shared/srpc/srpc.gyp
+END
+accept_loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1174/trunk/src/native_client/src/shared/srpc/accept_loop.c
+END
+rpc_serialize.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2588/trunk/src/native_client/src/shared/srpc/rpc_serialize.c
+END
+invoke.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1981/trunk/src/native_client/src/shared/srpc/invoke.c
+END

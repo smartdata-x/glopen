@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2547/trunk/src/native_client/src/untrusted/ppapi
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2547/trunk/src/native_client/src/untrusted/ppapi/nacl.scons
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files
+END
+websockets.idl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/websockets.idl
+END
+stylesheets.idl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/stylesheets.idl
+END
+ls.idl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/ls.idl
+END
+cssomview.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/cssomview.idl
+END
+ranges.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/ranges.idl
+END
+dom.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/dom.idl
+END
+html2.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/html2.idl
+END
+css.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/css.idl
+END
+html5.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/html5.idl
+END
+webworkers.idl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/webworkers.idl
+END
+validation.idl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/validation.idl
+END
+views.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/views.idl
+END
+svg.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/svg.idl
+END
+xhr.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/xhr.idl
+END
+webstorage.idl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/webstorage.idl
+END
+eventsource.idl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/eventsource.idl
+END
+traversal.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/traversal.idl
+END
+smil.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/smil.idl
+END
+COPYRIGHT.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/COPYRIGHT.html
+END
+events.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/w3c/files/events.idl
+END

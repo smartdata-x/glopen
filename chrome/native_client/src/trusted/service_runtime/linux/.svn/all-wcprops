@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2550/trunk/src/native_client/src/trusted/service_runtime/linux
+END
+nacl_syscall_inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/linux/nacl_syscall_inl.h
+END
+nacl_thread_nice.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/linux/nacl_thread_nice.c
+END
+nacl_syscall_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2097/trunk/src/native_client/src/trusted/service_runtime/linux/nacl_syscall_impl.c
+END
+nacl_signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2550/trunk/src/native_client/src/trusted/service_runtime/linux/nacl_signal.c
+END
+sel_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2550/trunk/src/native_client/src/trusted/service_runtime/linux/sel_memory.c
+END
+nacl_signal_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2550/trunk/src/native_client/src/trusted/service_runtime/linux/nacl_signal_arch.h
+END

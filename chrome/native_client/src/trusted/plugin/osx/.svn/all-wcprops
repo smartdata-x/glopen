@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2542/trunk/src/native_client/src/trusted/plugin/osx
+END
+open_mac_file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2542/trunk/src/native_client/src/trusted/plugin/osx/open_mac_file.cc
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2389/trunk/src/native_client/src/trusted/plugin/osx/Info.plist
+END
+open_mac_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2542/trunk/src/native_client/src/trusted/plugin/osx/open_mac_file.h
+END
+npGoogleNaClPlugin.r
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2389/trunk/src/native_client/src/trusted/plugin/osx/npGoogleNaClPlugin.r
+END

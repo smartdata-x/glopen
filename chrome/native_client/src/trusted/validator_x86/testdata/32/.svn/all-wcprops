@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2135/trunk/src/native_client/src/trusted/validator_x86/testdata/32
+END
+ncdis_iter_test.input
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2135/trunk/src/native_client/src/trusted/validator_x86/testdata/32/ncdis_iter_test.input
+END
+test_hex.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/519/trunk/src/native_client/src/trusted/validator_x86/testdata/32/test_hex.txt
+END
+fib_scalar.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/371/trunk/src/native_client/src/trusted/validator_x86/testdata/32/fib_scalar.nexe
+END
+test_hex.gold
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1768/trunk/src/native_client/src/trusted/validator_x86/testdata/32/test_hex.gold
+END
+null.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/371/trunk/src/native_client/src/trusted/validator_x86/testdata/32/null.nexe
+END
+fib_array.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/371/trunk/src/native_client/src/trusted/validator_x86/testdata/32/fib_array.nexe
+END
+ncdis_test.input
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/519/trunk/src/native_client/src/trusted/validator_x86/testdata/32/ncdis_test.input
+END
+ncdis_iter_test.internal
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2135/trunk/src/native_client/src/trusted/validator_x86/testdata/32/ncdis_iter_test.internal
+END

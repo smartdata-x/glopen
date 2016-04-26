@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 344
+npGoogleNaClPluginChrome.rules
+npGoogleNaClPluginChrome.mk
+npGoogleNaClPluginChrome.scons
+npGoogleNaClPluginChrome.vcproj
+plugin_chrome_main.scons
+plugin_chrome.sln
+plugin_chrome.xcodeproj
+SConstruct
+npGoogleNaClPlugin.rules
+npGoogleNaClPlugin.mk
+npGoogleNaClPlugin.scons
+npGoogleNaClPlugin.vcproj
+plugin_main.scons
+plugin.sln
+plugin.xcodeproj
+
+END

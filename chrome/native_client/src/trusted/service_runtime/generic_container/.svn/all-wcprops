@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/generic_container
+END
+container.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/generic_container/container.c
+END
+container.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/generic_container/container.h
+END

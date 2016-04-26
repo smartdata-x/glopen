@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/45665/trunk/src/testing/gmock/msvc
+END
+gmock-spec-builders_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/45665/trunk/src/testing/gmock/msvc/gmock-spec-builders_test.vcproj
+END
+gmock_config.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27953/trunk/src/testing/gmock/msvc/gmock_config.vsprops
+END
+gmock_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27953/trunk/src/testing/gmock/msvc/gmock_test.vcproj
+END
+gmock.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27953/trunk/src/testing/gmock/msvc/gmock.vcproj
+END
+gmock_main.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27953/trunk/src/testing/gmock/msvc/gmock_main.vcproj
+END
+gmock.sln
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/35352/trunk/src/testing/gmock/msvc/gmock.sln
+END
+gmock_link_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/27953/trunk/src/testing/gmock/msvc/gmock_link_test.vcproj
+END

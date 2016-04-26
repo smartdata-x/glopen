@@ -1,0 +1,268 @@
+#!/usr/bin/python
+
+# Copyright 2010 The Native Client Authors.  All rights reserved.
+# Use of this source code is governed by a BSD-style license that can
+# be found in the LICENSE file.
+
+import glob
+import os
+import sys
+
+import dirtree
+import btarget
+
+
+script_dir = os.path.abspath(os.path.dirname(__file__))
+# This allows "src" to be a symlink pointing to NaCl's "trunk/src".
+nacl_src = os.path.join(script_dir, "src")
+# Otherwise we expect to live inside the NaCl tree.
+if not os.path.exists(nacl_src):
+  nacl_src = os.path.normpath(os.path.join(script_dir, "..", "..", ".."))
+nacl_dir = os.path.join(nacl_src, "native_client")
+
+subdirs = [
+    "third_party/gcc",
+    "third_party/binutils",
+    "third_party/newlib",
+    "native_client/tools/patches"]
+search_path = [os.path.join(nacl_src, subdir) for subdir in subdirs]
+
+
+def FindFile(name):
+  for dir_path in search_path:
+    filename = os.path.join(dir_path, name)
+    if os.path.exists(filename):
+      return filename
+  raise Exception("Couldn't find %r in %r" % (name, search_path))
+
+
+def PatchGlob(name):
+  path = os.path.join(nacl_dir, "tools/patches", name, "*.patch")
+  patches = sorted(glob.glob(path))
+  if len(patches) == 0:
+    raise AssertionError("No patches found matching %r" % path)
+  return patches
+
+
+def GetSources():
+  return {
+    "binutils": dirtree.PatchedTree(
+        dirtree.TarballTree(FindFile("binutils-2.20.tar.bz2")),
+        PatchGlob("binutils-2.20"), strip=2),
+    "gcc": dirtree.PatchedTree(
+        dirtree.MultiTarballTree(
+            [FindFile("gcc-core-4.4.3.tar.bz2"),
+             FindFile("gcc-g++-4.4.3.tar.bz2"),
+             FindFile("gcc-testsuite-4.4.3.tar.bz2")]),
+        PatchGlob("gcc-4.4.3"), strip=2),
+    "newlib": dirtree.PatchedTree(
+        dirtree.TarballTree(FindFile("newlib-1.18.0.tar.gz")),
+        PatchGlob("newlib-1.18.0"), strip=2),
+    # For a discussion of why nacl-glibc uses these, see
+    # http://code.google.com/p/nativeclient/issues/detail?id=671
+    # TODO(mseaborn): Move this repo to git.chromium.org.
+    "linux_headers": dirtree.GitTree(
+        "http://repo.or.cz/r/linux-headers-for-nacl.git",
+        commit_id="2dc04f8190a54defc0d59e693fa6cff3e8a916a9"),
+    # TODO(mseaborn): Pin a specific Git commit ID here.
+    "glibc": dirtree.GitTree("http://src.chromium.org/git/nacl-glibc.git"),
+    }
+
+
+common_gcc_options = [
+    "--disable-libmudflap",
+    "--disable-decimal-float",
+    "--disable-libssp",
+    "--disable-libstdcxx-pch",
+    "--disable-shared",
+    "--target=nacl64"]
+
+
+def GetTargets(src):
+  top_dir = os.path.abspath("out")
+  src = dict((src_name,
+              btarget.SourceTarget("%s-src" % src_name,
+                                  os.path.join(top_dir, "source", src_name),
+                                  src_tree))
+             for src_name, src_tree in src.iteritems())
+  modules = {}
+  module_list = []
+
+  def MakeInstallPrefix(name, deps):
+    return btarget.UnionDir("%s-input" % name,
+                            os.path.join(top_dir, "input-prefix", name),
+                            [modules[dep] for dep in deps])
+
+  def AddModule(name, module):
+    modules[name] = module
+    module_list.append(module)
+
+  def AddAutoconfModule(name, src_name, deps, **kwargs):
+    module = btarget.AutoconfModule(
+        name,
+        os.path.join(top_dir, "install", name),
+        os.path.join(top_dir, "build", name),
+        MakeInstallPrefix(name, deps), src[src_name], **kwargs)
+    AddModule(name, module)
+
+  def AddSconsModule(name, deps, scons_args):
+    module = btarget.SconsBuild(
+        name,
+        os.path.join(top_dir, "install", name),
+        modules["nacl_src"],
+        MakeInstallPrefix(name, deps), scons_args)
+    AddModule(name, module)
+
+  modules["nacl_src"] = btarget.ExistingSource("nacl-src", nacl_dir)
+  modules["nacl-headers"] = \
+      btarget.ExportHeaders("nacl-headers", os.path.join(top_dir, "headers"),
+                            modules["nacl_src"])
+  # newlib requires the NaCl headers to be copied into its source directory.
+  # TODO(mseaborn): Fix newlib to not require this.
+  src["newlib2"] = btarget.UnionDir2(
+      "newlib2", os.path.join(top_dir, "newlib2"),
+      [("", src["newlib"], ""),
+       ("newlib/libc/sys/nacl", modules["nacl-headers"], "")])
+  AddAutoconfModule(
+      "binutils", "binutils", deps=[],
+      configure_opts=[
+          "--target=nacl64",
+          "CFLAGS=-DNACL_ALIGN_BYTES=32 -DNACL_ALIGN_POW2=5"])
+  # Undeclared Debian dependencies:
+  # sudo apt-get install libgmp3-dev libmpfr-dev
+  AddAutoconfModule(
+      "pre-gcc", "gcc", deps=["binutils"],
+      configure_opts=common_gcc_options + [
+          "--without-headers",
+          "--enable-languages=c",
+          "--disable-threads"],
+      # CFLAGS has to be passed via environment because the
+      # configure script can't cope with spaces otherwise.
+      configure_env=[
+          "CC=gcc",
+          "CFLAGS=-Dinhibit_libc -D__gthr_posix_h "
+          "-DNACL_ALIGN_BYTES=32 -DNACL_ALIGN_POW2=5"],
+      # The default make target doesn't work - it gives libiberty
+      # configure failures.  Need to do "all-gcc" instead.
+      make_cmd=["make", "all-gcc"],
+      install_cmd=["make", "install-gcc"])
+  AddAutoconfModule(
+      "newlib", "newlib2", deps=["binutils", "pre-gcc"],
+      configure_opts=[
+          "--disable-libgloss",
+          "--enable-newlib-io-long-long",
+          "--enable-newlib-io-c99-formats",
+          "--enable-newlib-mb",
+          "--target=nacl64"],
+      configure_env=["CFLAGS=-O2"],
+      make_cmd=["make", "CFLAGS_FOR_TARGET=-m64 -O2"])
+
+  AddSconsModule(
+      "nc_threads",
+      deps=["binutils", "pre-gcc"],
+      scons_args=["MODE=nacl_extra_sdk", "install_libpthread"])
+  AddSconsModule(
+      "libnacl_headers",
+      deps=["binutils", "pre-gcc"],
+      scons_args=["MODE=nacl_extra_sdk", "extra_sdk_update_header"])
+  # Before full-gcc is built, we cannot build any C++ code, and
+  # tools/Makefile builds the following with nocpp=yes.  However,
+  # full-gcc does not actually depend on it, so we do not use it.
+  AddSconsModule(
+      "libnacl_nocpp",
+      deps=["binutils", "pre-gcc", "newlib", "libnacl_headers", "nc_threads"],
+      scons_args=["MODE=nacl_extra_sdk", "extra_sdk_update", "nocpp=yes"])
+
+  AddAutoconfModule(
+      "full-gcc", "gcc",
+      deps=["binutils", "newlib", "libnacl_headers", "nc_threads"],
+      configure_opts=common_gcc_options + [
+          "--with-newlib",
+          "--enable-threads=nacl",
+          "--enable-tls",
+          "--disable-libgomp",
+          "--enable-languages=c,c++"],
+      configure_env=[
+          "CC=gcc",
+          "CFLAGS=-Dinhibit_libc -DNACL_ALIGN_BYTES=32 -DNACL_ALIGN_POW2=5"],
+      make_cmd=["make", "all"])
+
+  for arch in ("32", "64"):
+    AddSconsModule(
+        "libnacl_x86_%s" % arch,
+        deps=["binutils", "full-gcc", "newlib",
+              "libnacl_headers", "nc_threads"],
+        scons_args=["MODE=nacl_extra_sdk", "extra_sdk_update",
+                    "platform=x86-%s" % arch])
+
+  # Note that ordering is significant in the dependencies: nc_threads
+  # must come after newlib in order to override newlib's pthread.h.
+  newlib_toolchain = MakeInstallPrefix(
+      "newlib_toolchain",
+      deps=["binutils", "full-gcc", "newlib", "nc_threads",
+            "libnacl_x86_32", "libnacl_x86_64"])
+
+  hello_c = """
+#include <stdio.h>
+int main() {
+  printf("Hello world\\n");
+  return 0;
+}
+"""
+  modules["hello"] = btarget.TestModule(
+      "hello",
+      os.path.join(top_dir, "build", "hello"),
+      newlib_toolchain,
+      hello_c,
+      compiler=["nacl64-gcc", "-m32"])
+  module_list.append(modules["hello"])
+
+  # libnacl_nocpp and newlib are dependencies for the "forced unwind
+  # support" autoconf check.
+  # TODO(mseaborn): Get glibc to build without having to build newlib first.
+  AddAutoconfModule(
+      "glibc", "glibc",
+      deps=["binutils", "full-gcc", "libnacl_nocpp", "newlib"],
+      explicitly_passed_deps=[src["linux_headers"]],
+      configure_opts=[
+          "--prefix=/nacl64",
+          "--host=i486-linux-gnu",
+          "CC=nacl64-gcc -m32",
+          ("CFLAGS=-march=i486 -pipe -fno-strict-aliasing -O2 "
+           "-mno-tls-direct-seg-refs -g"),
+          ("--with-headers=%s" %
+           os.path.join(src["linux_headers"].dest_path, "include")),
+          "--enable-kernel=2.2.0"],
+      use_install_root=True)
+
+  modules["wrappers"] = btarget.SourceTarget(
+      "wrappers",
+      os.path.join(top_dir, "install", "wrappers"),
+      dirtree.CopyTree(os.path.join(script_dir, "wrappers")))
+  modules["linker_scripts"] = btarget.UnionDir2(
+      "linker_scripts",
+      os.path.join(top_dir, "install", "linker_scripts"),
+      [("nacl64/lib", src["glibc"], "nacl/dyn-link")])
+
+  glibc_toolchain = MakeInstallPrefix(
+      "glibc_toolchain",
+      deps=["binutils", "full-gcc", "glibc", "wrappers", "linker_scripts"])
+
+  modules["hello_glibc"] = btarget.TestModule(
+      "hello_glibc",
+      os.path.join(top_dir, "build", "hello_glibc"),
+      glibc_toolchain,
+      hello_c,
+      compiler=["nacl-glibc-gcc"])
+  module_list.append(modules["hello_glibc"])
+
+  return module_list
+
+
+def Main(args):
+  root_targets = GetTargets(GetSources())
+  btarget.BuildMain(root_targets, args, sys.stdout)
+
+
+if __name__ == "__main__":
+  Main(sys.argv[1:])

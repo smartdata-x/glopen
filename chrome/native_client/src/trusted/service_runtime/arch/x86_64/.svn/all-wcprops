@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2550/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64
+END
+service_runtime_x86_64.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64/service_runtime_x86_64.gyp
+END
+nacl_syscall_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1998/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64/nacl_syscall_64.S
+END
+tramp_64.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64/tramp_64.h
+END
+sel_rt_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64/sel_rt_64.c
+END
+sel_ldr_x86_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2481/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64/sel_ldr_x86_64.c
+END
+nacl_app_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64/nacl_app_64.c
+END
+sel_rt_64.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64/sel_rt_64.h
+END
+nacl_switch_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64/nacl_switch_64.S
+END
+sel_addrspace_x86_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2550/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64/sel_addrspace_x86_64.c
+END
+nacl_tls_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1710/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64/nacl_tls_64.c
+END
+nacl_switch_to_app_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64/nacl_switch_to_app_64.c
+END
+tramp_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/arch/x86_64/tramp_64.S
+END

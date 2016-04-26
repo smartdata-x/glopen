@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2188/trunk/src/native_client/tools/hermetic_cygwin/MkLink
+END
+MkLink.sln
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2159/trunk/src/native_client/tools/hermetic_cygwin/MkLink/MkLink.sln
+END
+MkLink.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2188/trunk/src/native_client/tools/hermetic_cygwin/MkLink/MkLink.c
+END
+MkLink.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2159/trunk/src/native_client/tools/hermetic_cygwin/MkLink/MkLink.vcproj
+END

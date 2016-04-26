@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2574/trunk/src/native_client/tests/npapi_runtime
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2118/trunk/src/native_client/tests/npapi_runtime/nacl.scons
+END
+plugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1942/trunk/src/native_client/tests/npapi_runtime/plugin.cc
+END
+plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1345/trunk/src/native_client/tests/npapi_runtime/plugin.h
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1623/trunk/src/native_client/tests/npapi_runtime/main.cc
+END
+npapi_runtime.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2574/trunk/src/native_client/tests/npapi_runtime/npapi_runtime.html
+END

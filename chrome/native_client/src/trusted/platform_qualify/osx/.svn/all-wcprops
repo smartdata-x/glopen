@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1422/trunk/src/native_client/src/trusted/platform_qualify/osx
+END
+nacl_os_qualify.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1422/trunk/src/native_client/src/trusted/platform_qualify/osx/nacl_os_qualify.c
+END

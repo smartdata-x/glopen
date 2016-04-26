@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dynamic_annotations", "dynamic_annotations.vcproj", "{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dynamic_annotations_win64", "dynamic_annotations_win64.vcproj", "{E8055455-0065-427B-9461-34A16FAD1973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|x64 = Release|x64
+		Purify|Win32 = Purify|Win32
+		Purify|x64 = Purify|x64
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8055455-0065-427B-9461-34A16FAD1973}.Debug|Win32.ActiveCfg = Debug|x64
+		{E8055455-0065-427B-9461-34A16FAD1973}.Debug|Win32.Build.0 = Debug|x64
+		{E8055455-0065-427B-9461-34A16FAD1973}.Release|x64.ActiveCfg = Release|x64
+		{E8055455-0065-427B-9461-34A16FAD1973}.Release|x64.Build.0 = Release|x64
+		{E8055455-0065-427B-9461-34A16FAD1973}.Purify|Win32.ActiveCfg = Purify|x64
+		{E8055455-0065-427B-9461-34A16FAD1973}.Purify|Win32.Build.0 = Purify|x64
+		{E8055455-0065-427B-9461-34A16FAD1973}.Purify|x64.ActiveCfg = Purify|x64
+		{E8055455-0065-427B-9461-34A16FAD1973}.Purify|x64.Build.0 = Purify|x64
+		{E8055455-0065-427B-9461-34A16FAD1973}.Debug|x64.ActiveCfg = Debug|x64
+		{E8055455-0065-427B-9461-34A16FAD1973}.Debug|x64.Build.0 = Debug|x64
+		{E8055455-0065-427B-9461-34A16FAD1973}.Release|Win32.ActiveCfg = Release|x64
+		{E8055455-0065-427B-9461-34A16FAD1973}.Release|Win32.Build.0 = Release|x64
+		{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}.Debug|Win32.Build.0 = Debug|Win32
+		{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}.Release|x64.ActiveCfg = Release|x64
+		{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}.Release|x64.Build.0 = Release|x64
+		{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}.Purify|Win32.ActiveCfg = Purify|Win32
+		{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}.Purify|Win32.Build.0 = Purify|Win32
+		{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}.Purify|x64.ActiveCfg = Purify|x64
+		{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}.Purify|x64.Build.0 = Purify|x64
+		{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}.Debug|x64.ActiveCfg = Debug|x64
+		{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}.Debug|x64.Build.0 = Debug|x64
+		{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}.Release|Win32.ActiveCfg = Release|Win32
+		{EF3AD1A1-5FA6-4B70-9CCC-F5AE4C6D0892}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

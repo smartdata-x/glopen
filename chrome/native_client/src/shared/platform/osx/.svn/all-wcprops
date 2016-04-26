@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1662/trunk/src/native_client/src/shared/platform/osx
+END
+strnlen_osx.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1424/trunk/src/native_client/src/shared/platform/osx/strnlen_osx.c
+END
+nacl_semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1424/trunk/src/native_client/src/shared/platform/osx/nacl_semaphore.c
+END
+nacl_host_dir_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1425/trunk/src/native_client/src/shared/platform/osx/nacl_host_dir_types.h
+END
+nacl_semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1425/trunk/src/native_client/src/shared/platform/osx/nacl_semaphore.h
+END
+nacl_host_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1662/trunk/src/native_client/src/shared/platform/osx/nacl_host_dir.c
+END

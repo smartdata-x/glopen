@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2574/trunk/src/native_client/tests/prebuilt/x86/OldAbiVersion
+END
+srpc_hw.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1890/trunk/src/native_client/tests/prebuilt/x86/OldAbiVersion/srpc_hw.nexe
+END
+srpc_hw.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2574/trunk/src/native_client/tests/prebuilt/x86/OldAbiVersion/srpc_hw.html
+END
+nacl_js_lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1890/trunk/src/native_client/tests/prebuilt/x86/OldAbiVersion/nacl_js_lib.js
+END

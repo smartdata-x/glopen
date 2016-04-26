@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2556/trunk/src/native_client/tests/loop
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2556/trunk/src/native_client/tests/loop/nacl.scons
+END
+loop.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2068/trunk/src/native_client/tests/loop/loop.cc
+END

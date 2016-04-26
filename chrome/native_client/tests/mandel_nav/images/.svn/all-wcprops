@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/371/trunk/src/native_client/tests/mandel_nav/images
+END
+controls_base.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/371/trunk/src/native_client/tests/mandel_nav/images/controls_base.png
+END
+cycle_colors.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/371/trunk/src/native_client/tests/mandel_nav/images/cycle_colors.png
+END
+color_wheel.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/371/trunk/src/native_client/tests/mandel_nav/images/color_wheel.png
+END
+blank_viewport.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/371/trunk/src/native_client/tests/mandel_nav/images/blank_viewport.png
+END
+controls_hotspots.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/371/trunk/src/native_client/tests/mandel_nav/images/controls_hotspots.png
+END
+cycle_colors_in.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/371/trunk/src/native_client/tests/mandel_nav/images/cycle_colors_in.png
+END
+cycle_colors_out.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/371/trunk/src/native_client/tests/mandel_nav/images/cycle_colors_out.png
+END
+color_cycle_gradient.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/371/trunk/src/native_client/tests/mandel_nav/images/color_cycle_gradient.png
+END

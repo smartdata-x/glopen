@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2535/trunk/src/native_client/tests/mmap
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2535/trunk/src/native_client/tests/mmap/nacl.scons
+END
+mmap_test.stdout
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2172/trunk/src/native_client/tests/mmap/mmap_test.stdout
+END
+run.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/541/trunk/src/native_client/tests/mmap/run.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/541/trunk/src/native_client/tests/mmap/README.txt
+END
+mmap_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2172/trunk/src/native_client/tests/mmap/mmap_test.cc
+END

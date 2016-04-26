@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/371/trunk/src/native_client/src/third_party/gnu_binutils/files
+END
+cygintl-3.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/371/trunk/src/native_client/src/third_party/gnu_binutils/files/cygintl-3.dll
+END
+as.exe
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/371/trunk/src/native_client/src/third_party/gnu_binutils/files/as.exe
+END
+cygiconv-2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/371/trunk/src/native_client/src/third_party/gnu_binutils/files/cygiconv-2.dll
+END
+cygwin1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/371/trunk/src/native_client/src/third_party/gnu_binutils/files/cygwin1.dll
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/41900/trunk/src/net/data/ssl/certificates
+END
+unosoft_hu_cert.der
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/34612/trunk/src/net/data/ssl/certificates/unosoft_hu_cert.der
+END
+dod_root_ca_2_cert.der
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/41900/trunk/src/net/data/ssl/certificates/dod_root_ca_2_cert.der
+END
+dod_ca_17_cert.der
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/41900/trunk/src/net/data/ssl/certificates/dod_ca_17_cert.der
+END
+ok_cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6495/trunk/src/net/data/ssl/certificates/ok_cert.pem
+END
+root_ca_cert.crt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6495/trunk/src/net/data/ssl/certificates/root_ca_cert.crt
+END
+www_us_army_mil_cert.der
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/41900/trunk/src/net/data/ssl/certificates/www_us_army_mil_cert.der
+END
+expired_cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6495/trunk/src/net/data/ssl/certificates/expired_cert.pem
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2149/trunk/src/native_client/src/trusted/service_runtime/testdata/arm
+END
+hello_world.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2149/trunk/src/native_client/src/trusted/service_runtime/testdata/arm/hello_world.nexe
+END

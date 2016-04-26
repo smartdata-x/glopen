@@ -1,0 +1,40 @@
+10
+
+dir
+52288
+http://src.chromium.org/svn/trunk/src/net/third_party
+http://src.chromium.org/svn
+
+
+
+2010-07-08T17:34:14.680682Z
+51859
+agl@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+nss
+dir
+
+parseftp
+dir
+
+gssapi
+dir
+
+mozilla_security_manager
+dir
+

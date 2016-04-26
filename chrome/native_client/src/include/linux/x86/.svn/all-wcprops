@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1096/trunk/src/native_client/src/include/linux/x86
+END
+atomic_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1096/trunk/src/native_client/src/include/linux/x86/atomic_ops.h
+END

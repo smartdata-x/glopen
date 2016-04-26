@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2574/trunk/src/native_client/tests/srpc
+END
+srpc_sysv_shm_test.stdin
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1011/trunk/src/native_client/tests/srpc/srpc_sysv_shm_test.stdin
+END
+examples.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1697/trunk/src/native_client/tests/srpc/examples.html
+END
+srpc_nrd_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1427/trunk/src/native_client/tests/srpc/srpc_nrd_server.c
+END
+srpc_shm.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2574/trunk/src/native_client/tests/srpc/srpc_shm.html
+END
+srpc_sysv_shm_test.stdout
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1011/trunk/src/native_client/tests/srpc/srpc_sysv_shm_test.stdout
+END
+srpc_sockaddr.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2574/trunk/src/native_client/tests/srpc/srpc_sockaddr.html
+END
+srpc_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1999/trunk/src/native_client/tests/srpc/srpc_test.c
+END
+srpcperf.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1634/trunk/src/native_client/tests/srpc/srpcperf.html
+END
+srpc_basic_test.stdin
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1999/trunk/src/native_client/tests/srpc/srpc_basic_test.stdin
+END
+srpc_basic_test.stdout
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1999/trunk/src/native_client/tests/srpc/srpc_basic_test.stdout
+END
+cat.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1702/trunk/src/native_client/tests/srpc/cat.c
+END
+srpc_plugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2574/trunk/src/native_client/tests/srpc/srpc_plugin.html
+END
+srpc_nrd_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1981/trunk/src/native_client/tests/srpc/srpc_nrd_client.c
+END
+srpc_shm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1427/trunk/src/native_client/tests/srpc/srpc_shm.c
+END
+srpc_nrd_xfer.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2574/trunk/src/native_client/tests/srpc/srpc_nrd_xfer.html
+END
+srpc_bidir.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1981/trunk/src/native_client/tests/srpc/srpc_bidir.c
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1511/trunk/src/native_client/tests/srpc/nacl.scons
+END
+srpc_url_as_nacl_desc_success.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1634/trunk/src/native_client/tests/srpc/srpc_url_as_nacl_desc_success.html
+END
+srpc_display_shm.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1634/trunk/src/native_client/tests/srpc/srpc_display_shm.html
+END
+test_fixed.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1597/trunk/src/native_client/tests/srpc/test_fixed.sh
+END
+srpc_url_as_nacl_desc.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2574/trunk/src/native_client/tests/srpc/srpc_url_as_nacl_desc.html
+END
+_README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/541/trunk/src/native_client/tests/srpc/_README.txt
+END
+srpc_basic.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2574/trunk/src/native_client/tests/srpc/srpc_basic.html
+END
+srpc_bad_service.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2206/trunk/src/native_client/tests/srpc/srpc_bad_service.c
+END

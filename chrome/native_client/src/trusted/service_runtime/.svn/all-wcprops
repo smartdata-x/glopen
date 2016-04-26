@@ -1,0 +1,557 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2561/trunk/src/native_client/src/trusted/service_runtime
+END
+sel_ldr_standard.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2550/trunk/src/native_client/src/trusted/service_runtime/sel_ldr_standard.c
+END
+nacl_app_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2487/trunk/src/native_client/src/trusted/service_runtime/nacl_app_thread.c
+END
+env_cleanser.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1697/trunk/src/native_client/src/trusted/service_runtime/env_cleanser.c
+END
+nacl_thread_nice.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/nacl_thread_nice.h
+END
+nacl_syscall_handlers_gen2.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/nacl_syscall_handlers_gen2.py
+END
+env_cleanser.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/env_cleanser.h
+END
+nacl_app_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2487/trunk/src/native_client/src/trusted/service_runtime/nacl_app_thread.h
+END
+nacl_sync_cond_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/nacl_sync_cond_test.c
+END
+modify_ldt2.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/modify_ldt2.c
+END
+format_string_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2184/trunk/src/native_client/src/trusted/service_runtime/format_string_test.c
+END
+nacl_config_dangerous.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1512/trunk/src/native_client/src/trusted/service_runtime/nacl_config_dangerous.h
+END
+nacl_syscall_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2487/trunk/src/native_client/src/trusted/service_runtime/nacl_syscall_common.c
+END
+sel_ldr_thread_death_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/sel_ldr_thread_death_test.c
+END
+nacl_signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2550/trunk/src/native_client/src/trusted/service_runtime/nacl_signal.h
+END
+sel_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/sel_mem.c
+END
+expiration.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/expiration.c
+END
+nacl_syscall_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1542/trunk/src/native_client/src/trusted/service_runtime/nacl_syscall_common.h
+END
+sel_ldr_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2487/trunk/src/native_client/src/trusted/service_runtime/sel_ldr_test.cc
+END
+internal_errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/internal_errno.h
+END
+sel_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/sel_mem.h
+END
+expiration.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2527/trunk/src/native_client/src/trusted/service_runtime/expiration.h
+END
+dyn_array_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/dyn_array_test.c
+END
+sel_validate_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2473/trunk/src/native_client/src/trusted/service_runtime/sel_validate_image.c
+END
+sel_util-inl.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/sel_util-inl.c
+END
+web_worker_stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1981/trunk/src/native_client/src/trusted/service_runtime/web_worker_stub.c
+END
+env_cleanser_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/env_cleanser_test.c
+END
+nacl_tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/nacl_tls.h
+END
+sel_util-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/sel_util-inl.h
+END
+nacl_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1628/trunk/src/native_client/src/trusted/service_runtime/nacl_config.h
+END
+web_worker_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/web_worker_stub.h
+END
+env_cleanser_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/env_cleanser_test.h
+END
+nacl_closure.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/nacl_closure.c
+END
+nacl_closure.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/nacl_closure.h
+END
+nacl_ldt_unittest.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/nacl_ldt_unittest.c
+END
+sel_memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/sel_memory.h
+END
+nacl_globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/nacl_globals.c
+END
+gio_shm_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2110/trunk/src/native_client/src/trusted/service_runtime/gio_shm_test.c
+END
+nacl_globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/nacl_globals.h
+END
+unittest_main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1426/trunk/src/native_client/src/trusted/service_runtime/unittest_main.cc
+END
+nacl_syscall_hook.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/nacl_syscall_hook.c
+END
+sel_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2561/trunk/src/native_client/src/trusted/service_runtime/sel_main.c
+END
+gio_shm_unbounded.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2213/trunk/src/native_client/src/trusted/service_runtime/gio_shm_unbounded.c
+END
+sel_addrspace.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2487/trunk/src/native_client/src/trusted/service_runtime/sel_addrspace.c
+END
+nacl_syscall_handlers.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/nacl_syscall_handlers.h
+END
+gio_shm_unbounded.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1974/trunk/src/native_client/src/trusted/service_runtime/gio_shm_unbounded.h
+END
+sel_addrspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2487/trunk/src/native_client/src/trusted/service_runtime/sel_addrspace.h
+END
+nacl_assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2152/trunk/src/native_client/src/trusted/service_runtime/nacl_assert.h
+END
+elf_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2490/trunk/src/native_client/src/trusted/service_runtime/elf_util.c
+END
+sel_ldr-inl.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/sel_ldr-inl.c
+END
+nacl_switch_to_app.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/nacl_switch_to_app.h
+END
+main2.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/main2.c
+END
+elf_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/elf_util.h
+END
+sel_ldr-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2550/trunk/src/native_client/src/trusted/service_runtime/sel_ldr-inl.h
+END
+nacl_check_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/nacl_check_test.c
+END
+sel_memory_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1426/trunk/src/native_client/src/trusted/service_runtime/sel_memory_unittest.cc
+END
+springboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/springboard.h
+END
+service_runtime.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2550/trunk/src/native_client/src/trusted/service_runtime/service_runtime.gyp
+END
+sel_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1603/trunk/src/native_client/src/trusted/service_runtime/sel_util.c
+END
+nacl_app.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/nacl_app.h
+END
+nacl_syscall_asm_symbols.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1792/trunk/src/native_client/src/trusted/service_runtime/nacl_syscall_asm_symbols.h
+END
+sel_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/sel_util.h
+END
+nacl_error_code.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1480/trunk/src/native_client/src/trusted/service_runtime/nacl_error_code.h
+END
+gio_shm_unbounded_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1974/trunk/src/native_client/src/trusted/service_runtime/gio_shm_unbounded_test.c
+END
+mmap_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2487/trunk/src/native_client/src/trusted/service_runtime/mmap_test.c
+END
+nacl_memory_object.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/nacl_memory_object.c
+END
+nacl_bottom_half.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/nacl_bottom_half.c
+END
+nacl_all_modules.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2358/trunk/src/native_client/src/trusted/service_runtime/nacl_all_modules.c
+END
+nacl_tls_unittest.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2002/trunk/src/native_client/src/trusted/service_runtime/nacl_tls_unittest.c
+END
+export_header.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1025/trunk/src/native_client/src/trusted/service_runtime/export_header.py
+END
+nacl_bottom_half.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/nacl_bottom_half.h
+END
+nacl_memory_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1029/trunk/src/native_client/src/trusted/service_runtime/nacl_memory_object.h
+END
+service_runtime_tests.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2425/trunk/src/native_client/src/trusted/service_runtime/service_runtime_tests.gyp
+END
+nacl_all_modules.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/nacl_all_modules.h
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2550/trunk/src/native_client/src/trusted/service_runtime/build.scons
+END
+nacl_sync_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1426/trunk/src/native_client/src/trusted/service_runtime/nacl_sync_unittest.cc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/519/trunk/src/native_client/src/trusted/service_runtime/README
+END
+nacl_sync_queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/nacl_sync_queue.c
+END
+nacl_text.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2481/trunk/src/native_client/src/trusted/service_runtime/nacl_text.c
+END
+expiration_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/expiration_test.c
+END
+nacl_sync_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/nacl_sync_queue.h
+END
+sel_mem_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/sel_mem_test.cc
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/main.c
+END
+sel_ldr.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2551/trunk/src/native_client/src/trusted/service_runtime/sel_ldr.c
+END
+gio_shm.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2213/trunk/src/native_client/src/trusted/service_runtime/gio_shm.c
+END
+nacl_text.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2097/trunk/src/native_client/src/trusted/service_runtime/nacl_text.h
+END
+dyn_array.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/dyn_array.c
+END
+nacl_audio_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/nacl_audio_video.h
+END
+sel_ldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2487/trunk/src/native_client/src/trusted/service_runtime/sel_ldr.h
+END
+modify_ldt.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/modify_ldt.c
+END
+gio_shm.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1974/trunk/src/native_client/src/trusted/service_runtime/gio_shm.h
+END
+dyn_array.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1542/trunk/src/native_client/src/trusted/service_runtime/dyn_array.h
+END
+sel_rt.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/sel_rt.h
+END

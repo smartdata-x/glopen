@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 88
+nonnacl_util_linux_main.scons
+nonnacl_util_linux.mk
+nonnacl_util_linux.scons
+SConstruct
+
+END

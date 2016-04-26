@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2119/trunk/src/native_client/src/trusted/service_runtime/win
+END
+nacl_syscall_inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/win/nacl_syscall_inl.h
+END
+nacl_ldt.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/win/nacl_ldt.c
+END
+nacl_thread_nice.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/win/nacl_thread_nice.c
+END
+sel_segments.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/service_runtime/win/sel_segments.c
+END
+nacl_syscall_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2097/trunk/src/native_client/src/trusted/service_runtime/win/nacl_syscall_impl.c
+END
+sel_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2119/trunk/src/native_client/src/trusted/service_runtime/win/sel_memory.c
+END
+mman.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/win/mman.h
+END

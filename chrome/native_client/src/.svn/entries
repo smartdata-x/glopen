@@ -1,0 +1,46 @@
+10
+
+dir
+2631
+http://nativeclient.googlecode.com/svn/trunk/src/native_client/src
+http://nativeclient.googlecode.com/svn
+
+
+
+2010-07-05T12:42:45.106631Z
+2625
+kcc@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fcba33aa-ac0c-11dd-b9e7-8d5594d729c2
+
+include
+dir
+
+shared
+dir
+
+third_party_mod
+dir
+
+third_party
+dir
+
+trusted
+dir
+
+untrusted
+dir
+

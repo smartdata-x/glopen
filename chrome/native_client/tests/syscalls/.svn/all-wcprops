@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1480/trunk/src/native_client/tests/syscalls
+END
+syscalls.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1426/trunk/src/native_client/tests/syscalls/syscalls.cc
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1480/trunk/src/native_client/tests/syscalls/nacl.scons
+END
+file_ok.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/541/trunk/src/native_client/tests/syscalls/file_ok.txt
+END
+run.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/541/trunk/src/native_client/tests/syscalls/run.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/541/trunk/src/native_client/tests/syscalls/README.txt
+END
+syscalls.stdout
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/541/trunk/src/native_client/tests/syscalls/syscalls.stdout
+END

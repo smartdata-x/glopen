@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2630/trunk/src/native_client/tools/llvm
+END
+ld_script_x8664_untrusted
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2578/trunk/src/native_client/tools/llvm/ld_script_x8664_untrusted
+END
+untrusted-toolchain-creator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2630/trunk/src/native_client/tools/llvm/untrusted-toolchain-creator.sh
+END
+setup_arm_trusted_toolchain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1957/trunk/src/native_client/tools/llvm/setup_arm_trusted_toolchain.sh
+END
+pnacl-helper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2604/trunk/src/native_client/tools/llvm/pnacl-helper.sh
+END
+setup_arm_untrusted_toolchain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2563/trunk/src/native_client/tools/llvm/setup_arm_untrusted_toolchain.sh
+END
+myg++32
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1019/trunk/src/native_client/tools/llvm/myg++32
+END
+configure-build-install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1019/trunk/src/native_client/tools/llvm/configure-build-install.sh
+END
+cc_unsandboxed_x86.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1695/trunk/src/native_client/tools/llvm/cc_unsandboxed_x86.sh
+END
+ld_script_arm_untrusted
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2407/trunk/src/native_client/tools/llvm/ld_script_arm_untrusted
+END
+llvm-cs-toolchain-creator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2230/trunk/src/native_client/tools/llvm/llvm-cs-toolchain-creator.sh
+END
+llvm-fake.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2622/trunk/src/native_client/tools/llvm/llvm-fake.py
+END
+mygcc32
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1019/trunk/src/native_client/tools/llvm/mygcc32
+END
+tools.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2486/trunk/src/native_client/tools/llvm/tools.sh
+END
+ld_script_x8632_untrusted
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2578/trunk/src/native_client/tools/llvm/ld_script_x8632_untrusted
+END
+qemu_tool.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2296/trunk/src/native_client/tools/llvm/qemu_tool.sh
+END
+trusted-toolchain-creator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2010/trunk/src/native_client/tools/llvm/trusted-toolchain-creator.sh
+END

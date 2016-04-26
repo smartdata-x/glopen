@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2605/trunk/src/native_client/src/include
+END
+portability_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/532/trunk/src/native_client/src/include/portability_io.h
+END
+atomic_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/619/trunk/src/native_client/src/include/atomic_ops.h
+END
+nacl_scoped_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2520/trunk/src/native_client/src/include/nacl_scoped_ptr.h
+END
+checked_cast.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2112/trunk/src/native_client/src/include/checked_cast.h
+END
+portability_process.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/532/trunk/src/native_client/src/include/portability_process.h
+END
+elf_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2490/trunk/src/native_client/src/include/elf_constants.h
+END
+portability.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2178/trunk/src/native_client/src/include/portability.h
+END
+nacl_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1705/trunk/src/native_client/src/include/nacl_string.h
+END
+nacl_elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2605/trunk/src/native_client/src/include/nacl_elf.h
+END
+checked_cast_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1705/trunk/src/native_client/src/include/checked_cast_debug.h
+END
+elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1662/trunk/src/native_client/src/include/elf.h
+END
+nacl_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1071/trunk/src/native_client/src/include/nacl_base.h
+END
+concurrency_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2097/trunk/src/native_client/src/include/concurrency_ops.h
+END
+elf32.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/532/trunk/src/native_client/src/include/elf32.h
+END
+elf64.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/532/trunk/src/native_client/src/include/elf64.h
+END
+nacl_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/532/trunk/src/native_client/src/include/nacl_platform.h
+END
+nacl_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2577/trunk/src/native_client/src/include/nacl_macros.h
+END
+portability_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/983/trunk/src/native_client/src/include/portability_string.h
+END

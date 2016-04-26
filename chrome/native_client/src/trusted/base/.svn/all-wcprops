@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1934/trunk/src/native_client/src/trusted/base
+END
+nacl_base_array_size_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/base/nacl_base_array_size_test.c
+END
+nacl_base_assert_is_array_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/base/nacl_base_assert_is_array_test.c
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1934/trunk/src/native_client/src/trusted/base/build.scons
+END
+nacl_min_max_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/base/nacl_min_max_test.c
+END
+nacl_base_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/base/nacl_base_test.c
+END

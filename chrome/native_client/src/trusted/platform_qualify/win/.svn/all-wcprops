@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2093/trunk/src/native_client/src/trusted/platform_qualify/win
+END
+nacl_dep_qualify.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2093/trunk/src/native_client/src/trusted/platform_qualify/win/nacl_dep_qualify.c
+END
+nacl_os_qualify.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1556/trunk/src/native_client/src/trusted/platform_qualify/win/nacl_os_qualify.c
+END

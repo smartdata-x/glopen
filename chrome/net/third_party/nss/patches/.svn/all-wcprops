@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/51859/trunk/src/net/third_party/nss/patches
+END
+nextproto.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/41433/trunk/src/net/third_party/nss/patches/nextproto.patch
+END
+cachecerts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/51859/trunk/src/net/third_party/nss/patches/cachecerts.patch
+END
+falsestart.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/41731/trunk/src/net/third_party/nss/patches/falsestart.patch
+END
+renegoscsv.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40337/trunk/src/net/third_party/nss/patches/renegoscsv.patch
+END
+versionskew.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/38773/trunk/src/net/third_party/nss/patches/versionskew.patch
+END

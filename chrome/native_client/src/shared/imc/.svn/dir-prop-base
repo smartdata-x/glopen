@@ -1,0 +1,22 @@
+K 10
+svn:ignore
+V 348
+google_nacl_imc.rules
+google_nacl_imc.mk
+google_nacl_imc.scons
+google_nacl_imc.vcproj
+imc_main.scons
+imc.sln
+imc.xcodeproj
+libgoogle_nacl_imc_c.rules
+libgoogle_nacl_imc_c.mk
+libgoogle_nacl_imc_c.scons
+libgoogle_nacl_imc_c.vcproj
+SConstruct
+run_sigpipe_test.rules
+run_sigpipe_test.vcproj
+sigpipe_test.rules
+sigpipe_test.vcproj
+google_nacl_imc.rules
+
+END

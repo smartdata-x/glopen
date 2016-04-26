@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1634/trunk/src/native_client/tests/quake
+END
+nacl_quake.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/541/trunk/src/native_client/tests/quake/nacl_quake.patch
+END
+quake9.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1634/trunk/src/native_client/tests/quake/quake9.html
+END
+quake.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1634/trunk/src/native_client/tests/quake/quake.html
+END
+README.nacl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/541/trunk/src/native_client/tests/quake/README.nacl
+END
+quake3.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1634/trunk/src/native_client/tests/quake/quake3.html
+END
+nacl_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1420/trunk/src/native_client/tests/quake/nacl_file.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/541/trunk/src/native_client/tests/quake/Makefile
+END

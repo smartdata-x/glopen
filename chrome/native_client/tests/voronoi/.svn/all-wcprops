@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2118/trunk/src/native_client/tests/voronoi
+END
+voronoi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1426/trunk/src/native_client/tests/voronoi/voronoi.cc
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2118/trunk/src/native_client/tests/voronoi/nacl.scons
+END
+run.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/541/trunk/src/native_client/tests/voronoi/run.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/541/trunk/src/native_client/tests/voronoi/README.txt
+END
+voronoi.stdout
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/541/trunk/src/native_client/tests/voronoi/voronoi.stdout
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/541/trunk/src/native_client/tests/voronoi/Makefile
+END
+voronoi.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1634/trunk/src/native_client/tests/voronoi/voronoi.html
+END

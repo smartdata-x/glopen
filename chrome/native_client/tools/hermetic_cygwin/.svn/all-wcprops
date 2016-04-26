@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2271/trunk/src/native_client/tools/hermetic_cygwin
+END
+hermetic-toolchain-build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2197/trunk/src/native_client/tools/hermetic_cygwin/hermetic-toolchain-build.bat
+END
+make_hermetic_cygwin.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2197/trunk/src/native_client/tools/hermetic_cygwin/make_hermetic_cygwin.conf
+END
+make_installer.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2188/trunk/src/native_client/tools/hermetic_cygwin/make_installer.inc
+END
+make_hermetic_cygwin.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2271/trunk/src/native_client/tools/hermetic_cygwin/make_hermetic_cygwin.sh
+END

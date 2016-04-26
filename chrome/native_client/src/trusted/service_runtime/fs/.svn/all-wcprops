@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/fs
+END
+obj_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/fs/obj_proxy.h
+END
+xdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/fs/xdr.h
+END
+obj_proxy_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/fs/obj_proxy_test.c
+END
+obj_proxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1662/trunk/src/native_client/src/trusted/service_runtime/fs/obj_proxy.c
+END
+xdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/fs/xdr.c
+END
+fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1409/trunk/src/native_client/src/trusted/service_runtime/fs/fs.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2556/trunk/src/native_client/tests/libc_free_hello_world
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2556/trunk/src/native_client/tests/libc_free_hello_world/nacl.scons
+END
+libc_free_hello_world.stdout
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1435/trunk/src/native_client/tests/libc_free_hello_world/libc_free_hello_world.stdout
+END
+libc_free_hello_world.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1435/trunk/src/native_client/tests/libc_free_hello_world/libc_free_hello_world.c
+END

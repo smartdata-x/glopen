@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2631/trunk/src/native_client
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1784/trunk/src/native_client/README.html
+END
+trusted_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2423/trunk/src/native_client/trusted_test.py
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2467/trunk/src/native_client/NOTICE
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/905/trunk/src/native_client/PRESUBMIT.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2191/trunk/src/native_client/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/729/trunk/src/native_client/AUTHORS
+END
+scons
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/532/trunk/src/native_client/scons
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2627/trunk/src/native_client/SConstruct
+END
+RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/542/trunk/src/native_client/RELEASE_NOTES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/542/trunk/src/native_client/COPYING
+END
+scons.bat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2095/trunk/src/native_client/scons.bat
+END
+codereview.settings
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2146/trunk/src/native_client/codereview.settings
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2589/trunk/src/native_client/DEPS
+END

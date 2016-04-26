@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2616/trunk/src/native_client/src/trusted/plugin/ppapi
+END
+browser_interface_ppapi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2605/trunk/src/native_client/src/trusted/plugin/ppapi/browser_interface_ppapi.cc
+END
+scriptable_handle_ppapi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2577/trunk/src/native_client/src/trusted/plugin/ppapi/scriptable_handle_ppapi.cc
+END
+scriptable_handle_ppapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2577/trunk/src/native_client/src/trusted/plugin/ppapi/scriptable_handle_ppapi.h
+END
+browser_interface_ppapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2605/trunk/src/native_client/src/trusted/plugin/ppapi/browser_interface_ppapi.h
+END
+plugin_ppapi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2616/trunk/src/native_client/src/trusted/plugin/ppapi/plugin_ppapi.cc
+END
+plugin_ppapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2616/trunk/src/native_client/src/trusted/plugin/ppapi/plugin_ppapi.h
+END

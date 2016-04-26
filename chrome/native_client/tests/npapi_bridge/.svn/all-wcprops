@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2608/trunk/src/native_client/tests/npapi_bridge
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2608/trunk/src/native_client/tests/npapi_bridge/nacl.scons
+END
+npp_gate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1623/trunk/src/native_client/tests/npapi_bridge/npp_gate.cc
+END
+plugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2589/trunk/src/native_client/tests/npapi_bridge/plugin.cc
+END
+plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1427/trunk/src/native_client/tests/npapi_bridge/plugin.h
+END
+base_object.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1426/trunk/src/native_client/tests/npapi_bridge/base_object.cc
+END
+base_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1427/trunk/src/native_client/tests/npapi_bridge/base_object.h
+END
+npapi_examples.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2608/trunk/src/native_client/tests/npapi_bridge/npapi_examples.html
+END
+README.testing
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/830/trunk/src/native_client/tests/npapi_bridge/README.testing
+END
+npapi_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2574/trunk/src/native_client/tests/npapi_bridge/npapi_test.html
+END

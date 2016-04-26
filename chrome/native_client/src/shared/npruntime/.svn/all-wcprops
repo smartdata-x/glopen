@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2616/trunk/src/native_client/src/shared/npruntime
+END
+npn_gate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2589/trunk/src/native_client/src/shared/npruntime/npn_gate.cc
+END
+npruntime.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1739/trunk/src/native_client/src/shared/npruntime/npruntime.gyp
+END
+npextensions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2060/trunk/src/native_client/src/shared/npruntime/npextensions.cc
+END
+npn_gate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1119/trunk/src/native_client/src/shared/npruntime/npn_gate.h
+END
+npextensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2061/trunk/src/native_client/src/shared/npruntime/npextensions.h
+END
+npstub_rpc_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1774/trunk/src/native_client/src/shared/npruntime/npstub_rpc_impl.cc
+END
+npupcall.srpc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1756/trunk/src/native_client/src/shared/npruntime/npupcall.srpc
+END
+structure_translations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2027/trunk/src/native_client/src/shared/npruntime/structure_translations.cc
+END
+structure_translations.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1705/trunk/src/native_client/src/shared/npruntime/structure_translations.h
+END
+npmodule.srpc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1913/trunk/src/native_client/src/shared/npruntime/npmodule.srpc
+END
+npupcall_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1623/trunk/src/native_client/src/shared/npruntime/npupcall_server.h
+END
+npnavigator.srpc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1913/trunk/src/native_client/src/shared/npruntime/npnavigator.srpc
+END
+npclosure.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2266/trunk/src/native_client/src/shared/npruntime/npclosure.h
+END
+npnavigator_rpc_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2266/trunk/src/native_client/src/shared/npruntime/npnavigator_rpc_impl.cc
+END
+wire_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1809/trunk/src/native_client/src/shared/npruntime/wire_format.h
+END
+npmodule.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1988/trunk/src/native_client/src/shared/npruntime/npmodule.cc
+END
+audio.srpc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1756/trunk/src/native_client/src/shared/npruntime/audio.srpc
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1709/trunk/src/native_client/src/shared/npruntime/main.cc
+END
+npmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2060/trunk/src/native_client/src/shared/npruntime/npmodule.h
+END
+npnavigator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2266/trunk/src/native_client/src/shared/npruntime/npnavigator.cc
+END
+device3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1316/trunk/src/native_client/src/shared/npruntime/device3d.h
+END
+npbridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2559/trunk/src/native_client/src/shared/npruntime/npbridge.h
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2455/trunk/src/native_client/src/shared/npruntime/build.scons
+END
+npobject_stub.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2027/trunk/src/native_client/src/shared/npruntime/npobject_stub.cc
+END
+audio.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2589/trunk/src/native_client/src/shared/npruntime/audio.cc
+END
+audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1541/trunk/src/native_client/src/shared/npruntime/audio.h
+END
+npobject_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2027/trunk/src/native_client/src/shared/npruntime/npobject_stub.h
+END
+npupcall_server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1756/trunk/src/native_client/src/shared/npruntime/npupcall_server.cc
+END
+npobject_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1794/trunk/src/native_client/src/shared/npruntime/npobject_proxy.cc
+END
+nacl_npapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2310/trunk/src/native_client/src/shared/npruntime/nacl_npapi.h
+END
+device2d.srpc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1988/trunk/src/native_client/src/shared/npruntime/device2d.srpc
+END
+npobject_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2027/trunk/src/native_client/src/shared/npruntime/npobject_proxy.h
+END
+device3d.srpc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1756/trunk/src/native_client/src/shared/npruntime/device3d.srpc
+END
+naclnp_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2441/trunk/src/native_client/src/shared/npruntime/naclnp_util.cc
+END
+npmodule_rpc_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2616/trunk/src/native_client/src/shared/npruntime/npmodule_rpc_impl.cc
+END
+npclosure.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2266/trunk/src/native_client/src/shared/npruntime/npclosure.cc
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1703/trunk/src/native_client/src/shared/npruntime/nacl.scons
+END
+pointer_translations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1596/trunk/src/native_client/src/shared/npruntime/pointer_translations.cc
+END
+npcapability.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2027/trunk/src/native_client/src/shared/npruntime/npcapability.h
+END
+pointer_translations.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1596/trunk/src/native_client/src/shared/npruntime/pointer_translations.h
+END
+npobjectstub.srpc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1756/trunk/src/native_client/src/shared/npruntime/npobjectstub.srpc
+END
+device2d.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2589/trunk/src/native_client/src/shared/npruntime/device2d.cc
+END
+device3d.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2589/trunk/src/native_client/src/shared/npruntime/device3d.cc
+END
+device2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1104/trunk/src/native_client/src/shared/npruntime/device2d.h
+END
+npbridge.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2027/trunk/src/native_client/src/shared/npruntime/npbridge.cc
+END
+npnavigator.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2266/trunk/src/native_client/src/shared/npruntime/npnavigator.h
+END

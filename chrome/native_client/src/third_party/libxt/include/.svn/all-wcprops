@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/include
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/include/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party/libxt/include/Makefile.am
+END

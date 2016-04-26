@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2049/trunk/src/native_client/tests/file
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2049/trunk/src/native_client/tests/file/nacl.scons
+END
+file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1426/trunk/src/native_client/tests/file/file.cc
+END
+run.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/541/trunk/src/native_client/tests/file/run.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/541/trunk/src/native_client/tests/file/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/541/trunk/src/native_client/tests/file/Makefile
+END

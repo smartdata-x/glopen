@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2068/trunk/src/native_client/installer
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2068/trunk/src/native_client/installer/build.scons
+END
+nacl_plugin.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/895/trunk/src/native_client/installer/nacl_plugin.wxs
+END
+nacl_sdk.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/931/trunk/src/native_client/installer/nacl_sdk.wxs
+END

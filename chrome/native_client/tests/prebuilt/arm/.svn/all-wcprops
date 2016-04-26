@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2308/trunk/src/native_client/tests/prebuilt/arm
+END
+srpc_hw.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2123/trunk/src/native_client/tests/prebuilt/arm/srpc_hw.nexe
+END
+gold-barebones_hello_world.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2308/trunk/src/native_client/tests/prebuilt/arm/gold-barebones_hello_world.nexe
+END

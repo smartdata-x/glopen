@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/50903/trunk/src/net/third_party/mozilla_security_manager
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/50259/trunk/src/net/third_party/mozilla_security_manager/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/50259/trunk/src/net/third_party/mozilla_security_manager/LICENSE
+END
+nsKeygenHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/50903/trunk/src/net/third_party/mozilla_security_manager/nsKeygenHandler.cpp
+END
+nsKeygenHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/50682/trunk/src/net/third_party/mozilla_security_manager/nsKeygenHandler.h
+END

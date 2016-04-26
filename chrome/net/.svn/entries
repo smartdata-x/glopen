@@ -1,0 +1,144 @@
+10
+
+dir
+52288
+http://src.chromium.org/svn/trunk/src/net
+http://src.chromium.org/svn
+
+
+
+2010-07-14T03:37:18.444232Z
+52275
+vandebo@chromium.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+spdy
+dir
+
+http
+dir
+
+proxy
+dir
+
+net.gyp
+file
+
+
+
+
+2010-07-14T05:16:12.406250Z
+2ed5b99af89039837068d853caa4aaaa
+2010-07-14T03:37:18.444232Z
+52275
+vandebo@chromium.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40458
+
+socket
+dir
+
+third_party
+dir
+
+ftp
+dir
+
+DEPS
+file
+
+
+
+
+2010-05-11T02:22:30.343750Z
+668f190484574520f1e43f9042ab9cbe
+2009-12-04T01:51:43.821094Z
+33772
+mbelshe@google.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+160
+
+build
+dir
+
+tools
+dir
+
+socket_stream
+dir
+
+ocsp
+dir
+
+server
+dir
+
+data
+dir
+
+websockets
+dir
+
+url_request
+dir
+
+base
+dir
+
+disk_cache
+dir
+

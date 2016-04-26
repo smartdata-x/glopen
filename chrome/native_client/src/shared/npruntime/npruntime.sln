@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "google_nacl_npruntime", "google_nacl_npruntime.vcproj", "{D3C3047F-0A7D-867D-B309-E183582AABAF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "google_nacl_npruntime64", "google_nacl_npruntime64.vcproj", "{A02CBF43-A066-23ED-336D-B7638B3ECAF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|x64 = Release|x64
+		Purify|Win32 = Purify|Win32
+		Purify|x64 = Purify|x64
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A02CBF43-A066-23ED-336D-B7638B3ECAF9}.Debug|Win32.ActiveCfg = Debug|x64
+		{A02CBF43-A066-23ED-336D-B7638B3ECAF9}.Debug|Win32.Build.0 = Debug|x64
+		{A02CBF43-A066-23ED-336D-B7638B3ECAF9}.Release|x64.ActiveCfg = Release|x64
+		{A02CBF43-A066-23ED-336D-B7638B3ECAF9}.Release|x64.Build.0 = Release|x64
+		{A02CBF43-A066-23ED-336D-B7638B3ECAF9}.Purify|Win32.ActiveCfg = Purify|x64
+		{A02CBF43-A066-23ED-336D-B7638B3ECAF9}.Purify|Win32.Build.0 = Purify|x64
+		{A02CBF43-A066-23ED-336D-B7638B3ECAF9}.Purify|x64.ActiveCfg = Purify|x64
+		{A02CBF43-A066-23ED-336D-B7638B3ECAF9}.Purify|x64.Build.0 = Purify|x64
+		{A02CBF43-A066-23ED-336D-B7638B3ECAF9}.Debug|x64.ActiveCfg = Debug|x64
+		{A02CBF43-A066-23ED-336D-B7638B3ECAF9}.Debug|x64.Build.0 = Debug|x64
+		{A02CBF43-A066-23ED-336D-B7638B3ECAF9}.Release|Win32.ActiveCfg = Release|x64
+		{A02CBF43-A066-23ED-336D-B7638B3ECAF9}.Release|Win32.Build.0 = Release|x64
+		{D3C3047F-0A7D-867D-B309-E183582AABAF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3C3047F-0A7D-867D-B309-E183582AABAF}.Debug|Win32.Build.0 = Debug|Win32
+		{D3C3047F-0A7D-867D-B309-E183582AABAF}.Release|x64.ActiveCfg = Release|x64
+		{D3C3047F-0A7D-867D-B309-E183582AABAF}.Release|x64.Build.0 = Release|x64
+		{D3C3047F-0A7D-867D-B309-E183582AABAF}.Purify|Win32.ActiveCfg = Purify|Win32
+		{D3C3047F-0A7D-867D-B309-E183582AABAF}.Purify|Win32.Build.0 = Purify|Win32
+		{D3C3047F-0A7D-867D-B309-E183582AABAF}.Purify|x64.ActiveCfg = Purify|x64
+		{D3C3047F-0A7D-867D-B309-E183582AABAF}.Purify|x64.Build.0 = Purify|x64
+		{D3C3047F-0A7D-867D-B309-E183582AABAF}.Debug|x64.ActiveCfg = Debug|x64
+		{D3C3047F-0A7D-867D-B309-E183582AABAF}.Debug|x64.Build.0 = Debug|x64
+		{D3C3047F-0A7D-867D-B309-E183582AABAF}.Release|Win32.ActiveCfg = Release|Win32
+		{D3C3047F-0A7D-867D-B309-E183582AABAF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

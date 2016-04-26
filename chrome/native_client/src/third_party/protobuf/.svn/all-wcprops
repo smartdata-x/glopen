@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2311/trunk/src/native_client/src/third_party/protobuf
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2311/trunk/src/native_client/src/third_party/protobuf/nacl.scons
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2311/trunk/src/native_client/src/third_party/protobuf/build.scons
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2311/trunk/src/native_client/src/third_party/protobuf/config.h
+END
+protobuf.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2311/trunk/src/native_client/src/third_party/protobuf/protobuf.gyp
+END

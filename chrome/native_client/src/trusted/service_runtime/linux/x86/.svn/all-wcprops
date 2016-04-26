@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/linux/x86
+END
+nacl_ldt.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1421/trunk/src/native_client/src/trusted/service_runtime/linux/x86/nacl_ldt.c
+END
+sel_segments.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1435/trunk/src/native_client/src/trusted/service_runtime/linux/x86/sel_segments.c
+END

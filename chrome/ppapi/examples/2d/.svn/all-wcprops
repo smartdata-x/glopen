@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/71231/trunk/src/ppapi/examples/2d
+END
+graphics_2d_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/71231/trunk/src/ppapi/examples/2d/graphics_2d_example.c
+END
+scroll.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/64613/trunk/src/ppapi/examples/2d/scroll.cc
+END
+paint_manager_example.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/64613/trunk/src/ppapi/examples/2d/paint_manager_example.cc
+END

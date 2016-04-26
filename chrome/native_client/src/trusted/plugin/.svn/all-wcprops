@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2623/trunk/src/native_client/src/trusted/plugin
+END
+nacl_entry_points.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/868/trunk/src/native_client/src/trusted/plugin/nacl_entry_points.h
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2616/trunk/src/native_client/src/trusted/plugin/build.scons
+END
+plugin.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2573/trunk/src/native_client/src/trusted/plugin/plugin.gyp
+END
+api_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2559/trunk/src/native_client/src/trusted/plugin/api_defines.h
+END
+plugin.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2616/trunk/src/native_client/src/trusted/plugin/plugin.gypi
+END
+origin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2542/trunk/src/native_client/src/trusted/plugin/origin.cc
+END
+origin.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1705/trunk/src/native_client/src/trusted/plugin/origin.h
+END
+nacl_entry_points.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1555/trunk/src/native_client/src/trusted/plugin/nacl_entry_points.cc
+END

@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 197
+desc_main.scons
+desc.sln
+desc.xcodeproj
+nrd_xfer_Debug.rules
+nrd_xfer_Purify.rules
+nrd_xfer_Release - no tcmalloc.rules
+nrd_xfer_Release.rules
+nrd_xfer.mk
+nrd_xfer.scons
+nrd_xfer.vcproj
+SConstruct
+
+END

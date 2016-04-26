@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2370/trunk/src/native_client/src/third_party_mod/npapi_plugin
+END
+npn_gate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2370/trunk/src/native_client/src/third_party_mod/npapi_plugin/npn_gate.cc
+END
+npn_gate.cpp.original
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/542/trunk/src/native_client/src/third_party_mod/npapi_plugin/npn_gate.cpp.original
+END
+np_entry.cpp.original
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party_mod/npapi_plugin/np_entry.cpp.original
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party_mod/npapi_plugin/LICENSE
+END
+np_entry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1372/trunk/src/native_client/src/third_party_mod/npapi_plugin/np_entry.cc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/534/trunk/src/native_client/src/third_party_mod/npapi_plugin/README
+END

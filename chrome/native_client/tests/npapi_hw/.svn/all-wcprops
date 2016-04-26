@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2574/trunk/src/native_client/tests/npapi_hw
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2092/trunk/src/native_client/tests/npapi_hw/nacl.scons
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/751/trunk/src/native_client/tests/npapi_hw/build.scons
+END
+npapi_hw.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1427/trunk/src/native_client/tests/npapi_hw/npapi_hw.c
+END
+npapi_hw.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2574/trunk/src/native_client/tests/npapi_hw/npapi_hw.html
+END
+README.testing
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/751/trunk/src/native_client/tests/npapi_hw/README.testing
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1081/trunk/src/native_client/tests/npapi_hw/Makefile
+END
+npp_gate.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1623/trunk/src/native_client/tests/npapi_hw/npp_gate.c
+END

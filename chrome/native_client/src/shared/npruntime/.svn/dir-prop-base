@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 176
+google_nacl_npruntime.rules
+google_nacl_npruntime.mk
+google_nacl_npruntime.scons
+google_nacl_npruntime.vcproj
+npruntime_main.scons
+npruntime.sln
+npruntime.xcodeproj
+SConstruct
+
+END

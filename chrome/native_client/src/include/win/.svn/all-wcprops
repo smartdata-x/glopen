@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/983/trunk/src/native_client/src/include/win
+END
+atomic_ops_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/532/trunk/src/native_client/src/include/win/atomic_ops_win32.h
+END
+port_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/983/trunk/src/native_client/src/include/win/port_win.h
+END
